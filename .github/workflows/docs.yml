@@ -23,6 +23,20 @@ jobs:
           # 选择要使用的 node 版本
           node-version: 18
 
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-npm-cache-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm-cache-
+
+      # 安装依赖 npm
+      - name: Install dependencies
+        # 如果没有命中缓存才执行 npm install
+        if: steps.cache-deps.outputs.cache-hit != 'true'
+        run: npm install
+
       # 运行构建脚本
       - name: Build VuePress site
         run: npm run docs:build
