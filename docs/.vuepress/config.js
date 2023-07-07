@@ -23,8 +23,7 @@ export default defineUserConfig({
                 // link: '/language/',
                 children: [
                 ],
-            },
-            {
+            },{
                 text: '数据结构和算法',
                 // collapsible: true,
                 // link: '/algorithm/',
@@ -41,7 +40,26 @@ export default defineUserConfig({
                         ],
                     },
                 ],
-            }
+            },{
+                text: '分布式与架构',
+                // link: '/language/',
+                children: [
+                    {
+                        text: '沈剑架构师训练营',
+                        collapsible: true,
+                        children: [
+                            '/distribute-arch/shenjian/arch-sj-1.md',
+                            '/distribute-arch/shenjian/arch-sj-2.md',
+                            '/distribute-arch/shenjian/arch-sj-3.md',
+                            '/distribute-arch/shenjian/arch-sj-4.md',
+                            '/distribute-arch/shenjian/arch-sj-5.md',
+                            '/distribute-arch/shenjian/arch-sj-6.md',
+                            '/distribute-arch/shenjian/arch-sj-7.md',
+                            '/distribute-arch/shenjian/arch-sj-8.md',
+                        ],
+                    },
+                ],
+            },
         ],
     }),
 })
