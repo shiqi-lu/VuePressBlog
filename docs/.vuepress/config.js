@@ -10,7 +10,7 @@ export default defineUserConfig({
     },
     theme: defaultTheme({
         logo: 'https://img.shiqi-lu.tech/47logo1.jpg',
-        // contributors: false,
+        sidebarDepth: 1,
         navbar: [
             {
                 text: '首页',
@@ -64,7 +64,14 @@ export default defineUserConfig({
                         text: '分布式理论',
                         collapsible: true,
                         children: [
+                            '/distribute-arch/distribute-theory/distributed-consistency-byzantine.md',
                             '/distribute-arch/distribute-theory/bully-gossip-nwr.md',
+                            '/distribute-arch/distribute-theory/distrib-principal-algo-1.md',
+                            '/distribute-arch/distribute-theory/distrib-principal-algo-2.md',
+                            '/distribute-arch/distribute-theory/distrib-protocal-algo-1.md',
+                            '/distribute-arch/distribute-theory/distrib-protocal-algo-2.md',
+                            '/distribute-arch/distribute-theory/distributed-lock.md',
+                            '/distribute-arch/distribute-theory/distributed-transaction.md',
                         ],
                     },{
                         text: '沈剑架构师训练营',
