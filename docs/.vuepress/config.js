@@ -19,9 +19,19 @@ export default defineUserConfig({
         ],
         sidebar: [
             {
+                text: '博客介绍',
+                link: '/',
+            }, {
                 text: '编程语言',
                 // link: '/language/',
                 children: [
+                ],
+            }, {
+                text: '数据库',
+                // collapsible: true,
+                // link: '/algorithm/',
+                children: [
+                    '/database/db-design-thing.md',
                 ],
             }, {
                 text: '数据结构和算法',

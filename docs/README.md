@@ -1,5 +1,6 @@
 ---
 lastUpdated: false
+contributors: false
 ---
 # 关于博客
 
