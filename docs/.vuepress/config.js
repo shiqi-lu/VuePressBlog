@@ -23,7 +23,7 @@ export default defineUserConfig({
                 // link: '/language/',
                 children: [
                 ],
-            },{
+            }, {
                 text: '数据结构和算法',
                 // collapsible: true,
                 // link: '/algorithm/',
@@ -38,13 +38,25 @@ export default defineUserConfig({
                             '/algorithm/leetcode/3.Longest-Substring-Without-Repeating-Characters.md',
                             '/algorithm/leetcode/206.Reverse-Linked-List.md',
                         ],
+                    }, {
+                        text: '算法总结',
+                        collapsible: true,
+                        children: [
+                            '/algorithm/selection/binary-search.md',
+                        ],
                     },
                 ],
-            },{
+            }, {
                 text: '分布式与架构',
                 // link: '/language/',
                 children: [
                     {
+                        text: '分布式理论',
+                        collapsible: true,
+                        children: [
+                            '/distribute-arch/distribute-theory/bully-gossip-nwr.md',
+                        ],
+                    },{
                         text: '沈剑架构师训练营',
                         collapsible: true,
                         children: [
@@ -56,6 +68,7 @@ export default defineUserConfig({
                             '/distribute-arch/shenjian/arch-sj-6.md',
                             '/distribute-arch/shenjian/arch-sj-7.md',
                             '/distribute-arch/shenjian/arch-sj-8.md',
+                            '/distribute-arch/shenjian/arch-miao-sha.md',
                         ],
                     },
                 ],
