@@ -22,10 +22,6 @@ export default defineUserConfig({
                 text: '编程语言',
                 link: '/language/',
                 children: [
-                    {
-                        text: '第一篇',
-                        link: '/language/first.md',
-                    },
                 ],
             },
         ],
