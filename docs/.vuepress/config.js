@@ -24,6 +24,34 @@ export default defineUserConfig({
                 children: [
                 ],
             },
+            {
+                text: '数据结构和算法',
+                link: '/algorithm/',
+                children: [
+                    {
+                        text: 'Leetcode刷题笔记',
+                        link: '/algorithm/leetcode/',
+                        children: [
+                            {
+                                text: '1.两数之和(Two Sum)E',
+                                link: '/algorithm/leetcode/1.two-sum.md',
+                            },
+                            {
+                                text: '2.两数相加(Add Two Numbers)M',
+                                link: '/algorithm/leetcode/2.Add-Two-Numbers.md',
+                            },
+                            {
+                                text: '3.无重复字符的最长子串(Longest Substring Without Repeating Characters)M',
+                                link: '/algorithm/leetcode/',
+                            },
+                            {
+                                text: '206.反转链表(Reverse Linked List)E',
+                                link: '/algorithm/leetcode/206.Reverse-Linked-List.md',
+                            },
+                        ],
+                    },
+                ],
+            }
         ],
     }),
 })
