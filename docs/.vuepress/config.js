@@ -10,7 +10,7 @@ export default defineUserConfig({
     },
     theme: defaultTheme({
         logo: 'https://img.shiqi-lu.tech/47logo1.jpg',
-        contributors: false,
+        // contributors: false,
         navbar: [
             {
                 text: '首页',
