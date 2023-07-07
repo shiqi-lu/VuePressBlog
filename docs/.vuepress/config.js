@@ -32,8 +32,8 @@ export default defineUserConfig({
                     {
                         text: 'Leetcode刷题笔记',
                         collapsible: true,
-                        // link: '/algorithm/leetcode/',
                         children: [
+                            '/algorithm/leetcode/0.general.md',
                             '/algorithm/leetcode/1.two-sum.md',
                             '/algorithm/leetcode/2.Add-Two-Numbers.md',
                             '/algorithm/leetcode/3.Longest-Substring-Without-Repeating-Characters.md',
