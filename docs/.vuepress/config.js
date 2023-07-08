@@ -151,6 +151,16 @@ export default defineUserConfig({
                         ],
                     },
                 ],
+            }, {
+                text: '其它',
+                collapsible: true,
+                children: [
+                    '/other/first-blog.md',
+                    '/other/update-blog.md',
+                    '/other/roam2anki-intro.md',
+                    '/other/high-quality-sleep.md',
+                    '/other/off-time.md',
+                ],
             }, 
         ],
     }),
