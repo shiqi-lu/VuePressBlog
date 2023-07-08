@@ -8,7 +8,6 @@ tags:
 categories:
 - 架构
 description: 完整整理了4种分布式共识算法（拜占庭容错算法）的原理，包括PBFT、PoW、PoS、DPos
-sidebarDepth: 1
 ---
 
 ## 导论

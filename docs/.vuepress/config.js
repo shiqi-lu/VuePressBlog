@@ -53,6 +53,7 @@ export default defineUserConfig({
                         collapsible: true,
                         children: [
                             '/algorithm/selection/binary-search.md',
+                            '/algorithm/selection/throttling-algorithm.md',
                         ],
                     },
                 ],
@@ -66,6 +67,9 @@ export default defineUserConfig({
                         children: [
                             '/distribute-arch/distribute-theory/distributed-consistency-byzantine.md',
                             '/distribute-arch/distribute-theory/bully-gossip-nwr.md',
+                            '/distribute-arch/distribute-theory/paxos.md',
+                            '/distribute-arch/distribute-theory/raft.md',
+                            '/distribute-arch/distribute-theory/zab.md',
                             '/distribute-arch/distribute-theory/distrib-principal-algo-1.md',
                             '/distribute-arch/distribute-theory/distrib-principal-algo-2.md',
                             '/distribute-arch/distribute-theory/distrib-protocal-algo-1.md',
@@ -89,7 +93,23 @@ export default defineUserConfig({
                         ],
                     },
                 ],
-            },
+            }, {
+                text: '英语',
+                // link: '/language/',
+                children: [
+                    {
+                        text: '恶魔奶爸语法',
+                        collapsible: true,
+                        children: [
+                            '/english/demon-gramma/gramma1-3.md',
+                            '/english/demon-gramma/gramma4-6.md',
+                            '/english/demon-gramma/gramma7-9.md',
+                            '/english/demon-gramma/gramma10-12.md',
+                            '/english/demon-gramma/gramma13-15.md',
+                        ],
+                    },
+                ],
+            }, 
         ],
     }),
 })

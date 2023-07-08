@@ -1,0 +1,305 @@
+---
+title: 恶魔奶爸语法4-6课
+date: 2020-11-21 18:44:26
+tags:
+- 英语
+- 语法
+categories:
+- 英语
+description: 恶魔奶爸4-6课学习笔记：4.被动语态的重难点——不完全及物动词和授予动词补充、5.最简单的长句——并列句、6.把句子套进另一个句子里，变身“大名词”
+---
+
+
+## 4.被动语态的重难点——不完全及物动词和授予动词补充
+
+- 第四大句型，主谓宾补，其实就是“让某人做某事”
+    - My mother made me wash the car.
+    - 宾语是“我”，宾补是“洗车”，也就是说，宾语和宾补放在一起，逻辑上可以构成一个句子“我洗车”。
+    - 宾语和宾补之间的关系是被动语态呢?
+    - 他让这个任务完成了。
+    - 如果按照造句规律，应该是: He made this task be finished.或者He get this task to be finished.
+    - 宾补中，出现的be或者to be，通常要省略！所以，这句话应该说成: He made this task finished.
+- 英语中还有什么时候会出现be动词呢?
+    - 除了被动语态(过去分词作表语)之外，还有主系表句型(be动词后面的名词作表语，形容词作表语，地点副词作表语)
+- 使役动词+宾语+过去分词（补语）
+    - Now a group of students will have the plane restored.一群学生计划修复这架飞机。
+    - Officials have the clock checked twice a day.官员们每天两次派人检查此钟。
+- 使役动词+宾语+名词、形容词或地点副词
+    - 使役动词也可加名词、形容词或地点副词等作补语，其原因是前面省略了不定式be或to be。
+        - His teacher made him a good student. (名词作宾补)他的老师使他成为好学生。
+        - The trip made him happy.(形容词作宾补)这次旅行使他很愉快。
+        - He let me in. (地点副词作宾补)他让我进来。
+        - Get him out of here. (介词短语，相当于地点副词)把他弄出去!
+- 各种不完全及物动词：接上宾语后意思仍然不完整
+    - 让某人做某事，只能接不定时作宾语补语：ask、encourage、tell、push、expect、want、drive/force/oblige/compel、order、cause/urge
+        - The postman `wanted` me to sign for a letter!邮递员要我签收一封挂号信!
+        - Last week at a dinner-party, the hostess `asked` me to sit next to Mrs. Rumbold.在上星期的一次宴会上，女主人安排我坐在兰伯尔德夫人的身旁。
+        - Byrd at once `ordered` his men to throw out two heavy food sacks.伯德马上命令他的助手们把两个沉重的食物袋扔掉。
+        - My dentist had `told` me to rest for a while.我的牙科医生叫我休息一会儿。
+        - My old friend Brian `urged` me to accept a cigarette.我的老朋友布赖恩极力劝我接受一枝香烟。
+    - 知觉动词（5看，2听，1感觉）：感觉：feel，听：hear, listen to，看：see, observe, watch, look at, notice
+        - 表事实：此类动词+宾语+动词原形(补语)，译为"........了。"
+            - I `saw` him dance.我看见他跳舞了。
+            - I `heard` him sing.我听见他唱歌了。
+        - 表进行状态：此类动词+宾语+现在分词(补语)，译为".....正在......"
+            - Early next morning, she `heard` planes passing overhead. 第二天一大早，她听到头顶上飞机正在盘旋。
+            - The pilot `saw` one of the men taking photographs.当气球飞临基地上空时，飞行员看见有一个人在拍照。
+        - 表被动状态：此类动词+宾语+过去分词(补语)，译为".....被....."
+            - I `saw` him killed.我看见他被杀了。
+    - 认定动词：视...为...；认为...是...：动词 + 宾语 + 介词as + 名词或形容词(补语)
+        - regard
+            - In spite of this, the Italians `regarded` him `as` a sort of hero.尽管如此，意大利人还是把他视作某种英雄。
+        - look upon
+            - His students all `look upon` him `as` a friend.他的学生都把他看成是朋友。
+        - think of
+            - They `think of` themselves `as` the salt of the earth.他们自认为是社会中坚。
+        - see
+            - I'd like to `see` Europe `as` a nuclear-free zone.我希望欧洲成为无核区。
+        - view
+            - We `view` every customer `as` a partner.我们将每一位客户视为合作伙伴。
+    - 认定动词：视...为...；认为...是...：动词 + 宾语 + (to be) + 名词或形容词(补语)：consider, deem, think, find, believe
+        - He is `finding` his new work far more exciting.他发觉自己的新工作令人兴奋得多。
+        - I `found` his advice really useful.我发现他的建议非常有用。
+        - People `think` this problem determination.人们认为这个问题解决了。
+    - 转变动词：使...变成...：change/turn + 宾语 + into + 名词(补语)
+        - I need to change my dollars into francs.我需要把美金换成法郎。
+        - The experience turned him into a good student.这个经验使他变成了好学生。
+    - call/name + 宾语 + 名词(补语)
+        - 'Do you call that a hat?' I said to my wife.“你把那个叫帽子吗?”我对妻子说。
+        - You can name your pet dog Doctor.你可以把你的狗狗取名为博士。
+    - help后接不定式(to可省略) 作宾语补语。
+        - A short while ago, my sister helped me to carry my old bookcases up the stairs.几分钟前，我妹妹帮我把我的旧书橱抬上了楼。
+    - 造句练习
+        - 1.店员看见这个衣着很好的妇女正在偷东西。
+            - 1.The shop assistant saw the well-dressed woman stealing something.
+        - 2.你能帮我洗衣服吗?
+            - 2.Can you help me to wash clothes?
+        - 3.作为老师，你应该鼓励你的学生努力学习。
+            - 3.As a teacher, you should encourage your students to study hard.
+        - 4.父母不应该期望他们的孩子做任何事都成功。
+            - 4.The parents should not expect their children to succeed in doing everything.
+        - 5.你应该命令这个计划在一个月内完成。(order)
+            - 5.You should order this project to finished within a month.
+        - 6.我发现我们的老师被警察逮捕了。
+            - 6.I found our teacher arrested by the police.
+        - 7.工人们明天将把墙刷成绿色。
+            - 7.The workers will paint the wall green.
+        - 8.女主人邀请我们进去。
+            - 8.The hostess invited us in.
+        - 9.我们认为这个男人处于危险中。
+            - 9.We considered the man in danger.
+        - 10.大部分人把他当作英雄。
+            - 10.Most people regarded him as a hero.
+- 特殊的授予动词
+    - 间接宾语与直接宾语位置可以倒置，此时需要加介词to, for, of。
+        - 表“给予”的概念，要用to
+            - My holidays passed quickly, but I did not send any cards `to` my friends.假期过得真快，可我还没有给我的朋友们寄过一张明信片。
+        - 表“代劳”的概念(buy等) ，要用for
+            - I bought a book `for` him.我为他买了一本书
+        - ask要用of
+            - I asked a question `of` him.我问了他一个问题。
+    - 下列授予动词与of连用
+        - 1.rob 抢夺
+            - He robbed me of my money.他抢了我的钱。
+            - 注:中式思维容易说成He robbed my money. (X) 这是绝对错误的!
+        - 2.deprive 剥夺(权利)
+            - This law will deprive us of our most basic rights.这条法律将剥夺我们最基本的权利。
+        - 3.cure 治愈
+            - The teacher cured him of bad habits.老师纠正了他的坏习惯。
+        - 4.relieve 减轻
+            - It will relieve her of a tremendous burden. 这将给她解决一个巨大的负担。
+        - 5.remind 提醒
+            - I continually have to remind him of his responsibilities.我得一再提醒他记住他的责任。
+    - 表“提供”概念的授予动词provide, furnish, supply必须与介词with连用。(但双宾语倒置的时候任然用to，for)
+        - He provided me with a lot of money.他提供给我很多钱。
+        - The present conflict may provide fresh impetus for peace talk.目前的冲突可能会给和谈提供新的推动力。
+        - The school doesn't furnish students with lunch.学校不供给学生午饭。
+        - The gas station usually supplies its nearby communities with gas.这个加油站通常为附近的社区提供汽油。
+        - We supply power to the three nearby towns.我们对附近的三个城镇提供电力。
+    - 造句练习
+        - 1.这个著名的歌手给我们演唱了一首流行歌曲。
+            - 1.The famous singer sang us a popular song.
+        - 2.这座新桥带给当地人极大的方便。
+            - 2.The new bridge brings the local people the great convenience.
+        - 3.你不能剥夺她的权利。
+            - 3.You can't deprive her of her rights.
+        - 4.这张照片使我想起了我们在夏令营度过的日子。
+            - 4.The photo reminds me of the days which spent in the summer camp.
+- 第四大句型:主语+不完全及物动词+宾语+宾语补语，变成被动语态时，原句的宾语补语，在被动语态中的名称为“主语补语”
+    - My father was shocked. Now we are not allowed to touch it. 我父亲大为吃惊，不许我们再动它。
+    - The Games will be held just outside the capital and the whole area will be called 'Olympic City'. 奥运会就在首都市郊举办，整个地区将被称作奥林匹克城”。
+    - The man was ordered to pay 43,545 for the cost of the trip. 此人被责令交付旅费3,500英镑.
+- make, have, let, get 这4个使役动词，只有make可以用于被动语态。这类句型在被动语态句里边，主语补语必须加上to!
+    - They made me repeat the story. / I was made to repeat the story.他们让我又把那事讲了一遍。
+- 能用动词原形作宾语补语的不完全(及物)动词有
+    - 5看：see, observe, watch, look at, notice
+        - I saw him dance. / He was seen to dance. 我看见他跳舞了。
+    - 1使：make
+    - 2听：hear, listen to
+    - 1感：feel
+- 第五大句型变成被动语态时，两个宾语都可以成为被动句的主语。但由于间接宾语是人，通常更常变成主语。
+    - I give him a book. = He was given a book by me. = A book was given to him by me.
+
+## 5.最简单的长句——并列句
+
+### 简单句、复合句、并列句
+
+- 简单句：是只有一个主干的句子
+- 复合句：是除主句外还包含一个或一个以上从句的句子
+- 并列句：由并列连词连接两个或两个以上简单句而成的句子。
+- 注意：汉语可以用逗号分隔两个完整的句子，英语绝对不可以！而是必须有连词连接，或者把其中一个句子，化简为分词短语或不定时短语
+
+### 连接主句和从句的连词有三种
+
+- 引导词，连接名词性从句
+- 副词连词，连接状语从句
+- 关系词，连接定语从句
+
+### 单一连接词：and, or, but
+
+- 连接对等的句子
+    - I had just lost $50 `and` I felt very upset. 我刚刚丢了50英镑，感到非常烦恼。(and连接不用加逗号)
+    - The police had a difficult time, `but` they were most amused. 警察虽然吃了苦头，但他们还是感到很有趣。(but连接要加逗号)
+    - 注：or连接句子的时候，通常用于祈使句后面，翻译为“否则”
+    - Obey your boss `or` you will be fired. 服从你的上司，否则你会被解雇。
+    - Don't cheat at exams `or` others will despise you. 考试不要作弊，否则别人会瞧不起你。
+    - Give me liberty `or` give me death. 不自由，毋宁死。
+- 连接句子中任何对等的成分
+    - 连接主语
+        - A young man `and` a young woman were sitting behind me.
+        - 一青年男子与一青年女子坐在我的身后。
+    - 连接谓语：相当于是连接两个句子，省略了第二个句子的主语
+        - I visited museums `and` sat in public gardens. 我参观了博物馆，还去了公园。
+        - I entered the hotel manager's office `and` sat down. 我走进饭店经理的办公室，坐了下来
+        - 注：连接谓语的时候，只要助动词相同，即可省略助动词
+            - After taking off, we were flying low over the city `and` (were) slowly gaining height, when the plane suddenly turned round and flew back to the airport. 起飞之后，我们在城市上空低低地飞行，然后慢慢爬高。这时飞机突然调转头来，飞回了 机场。(括号里的助动词were可省略)
+        - 谓语动词相同的，也可以省略。
+            - Mary is very happy `but` John (is) very miserable. 玛丽很幸福，但是约翰很悲惨。
+            - Experience is the father of wisdom, `and` memory (is) the mother. 经验乃智慧之父，记忆为智慧之母。
+            - Reading makes a full man; conference a ready man; `and` writing an exact man.读书使人渊博，交谈使人机敏，写作使人严谨。(conference和writing后省略了makes)- Francis Bacon(弗朗西斯培根)
+    - 连接宾语
+        - I looked at the man `and` the woman angrily. 我回过头去怒视着那一男一女。
+        - He asked me for a meal `and` a glass of beer. 他问我要一顿饭和一杯啤酒。(连接介词for的两个宾语)
+    - 连接表语
+        - The railway station was big, black `and` dark. 火车站很大，又黑又暗。
+        - The explanation was simple `but` very unusual. 解释很简单，却异乎寻常
+    - 连接宾语补语
+        - He saw two thieves rush out of a shop `and` run towards a waiting car. 他看到有两个小偷从一家商店里冲出来，奔向等在那里的一辆汽车。
+    - 连接定语
+        - Pupils of the school, old `and` new, will be sending him a present to mark the occasion.为了纪念这个日子，学校的学生——无论老同学还是新同学——将送他一件礼物。
+    - 连接状语
+        - We shall all remember Mr. Page for his patience `and` understanding and for the kindly encouragement.我们不会忘记佩奇先生对我们既有耐心又充满理解，还有亲切鼓励。
+    - 注：or连接对等成分的时候，通常翻译为“或者”
+        - They will go to the zoo `or` play volleyball. 他们要去动物园或打排球
+        - I want to have a talk with Mr. Jones `or` Mr. Smith. 我想和琼斯先生或者史密斯先生谈谈。
+    - And也可表示“然后”，“但是”，”那么，则”的意思
+        - Cease to struggle and you cease to live. 停止奋斗，则终止了生命。
+        - Idleness is sweet, and its consequences are cruel.  懒惰是甜蜜的，但其结果是残酷的。
+        - I will set my goal and work toward it. 我要确定目标，然后为此努力。
+
+### 由单一连词衍生的连接词
+
+- 要么...要么...：either...or...(连接2者以上的结构)
+    - In answer to these questions I `either` nodded `or` made strange noises. 作为对这些问题的回答，我不是点头，就是发出奇怪的声音。
+    - `Either` Bob `or` Jim or Sam will be the new vice president of the company. 不是鲍勃就是吉姆或者是山姆会成为这家公司的新副总裁。
+- 既不是...也不是...：neither...nor...，也可用其它否定词代替neither
+    - He answered me, but he spoke `neither` slowly `nor` clearly. 他回答了，但他讲得既不慢也不清楚。
+    - We are worried about Mary. She `neither` eats `nor` drinks `nor` talks. 我们替玛丽担心。她不吃不喝也不说话
+    - The story is `not` interesting `nor` instructive. 这个故事没有味道，也没有教育意义。
+    - I have `never` spoken `nor` written to her. 我跟她从来没说过话，也没写过信。
+- 不是...而是...：not...but...
+    - I went to the concert `not` with my brother `but` with my friend. 我不是和我哥哥去音乐会，而是和我朋友去的。(只能省略动词，不能省略介词)
+    - We choose to go to the moon in this decade and do the other things, `not` because they are easy, `but` because they are hard. 我们选择10年内登月以及另外一些事情，不是因为它们容易，而是因为它们困难。(肯尼迪总统在阿波罗登月计划动员会上的讲话)
+    - “Listen, my dear, we must hold on to hope," my father calm but insistently replied.“`Not` because hope is real, but because we have to live up to nobility." “听着，亲爱的，我们必须抱有希望，”我爸爸平静但坚定地回答。“这并不是因为希望真的存在，而是因为我们要做高贵的人。” 《The wandering earth》Liu Cixin (刘慈欣《流浪地球》)
+- 不仅...而且...：not only...but(also).../not only...but...as well
+    - He answered all the question `not only` quickly `but (also)` accurately. 他回答所有问题时不仅快，而且准确。
+    - The Big Ben is `not only` of immense size, `but` is extremely accurate `as well.` 此钟不仅外型巨大，而且走时也非常准确。
+    - 英国英语常用not only... but... as well,
+    - 美国英语常用not only... but also...(also可省略)
+    - I `not only` spoke English very carefully, `but` very clearly `as well`.(英)
+    - I `not only` spoke English very carefully, `but (also)` very clearly. (美)我的英语讲得不但非常认真，而且咬字也非常清楚。
+- 注：上述并列连词连接的并列名词作主语时，谓语动词的单复数与靠后面的名词一致
+    - Either Thomas or I `am` going to call you tomorrow about the job.不是托马斯就是我明天会打电话给你谈工作的事。
+- ...和...两者都：both...and...
+    - To go far, you need `both` a dream `and` a positive attitude.要成功，你需要梦想和积极的态度。
+    - 注：本并列连接的并列名词作主语时，谓语动词一律用复数
+    - Both my mother and my sister `work` at the grocery store. 我妈妈和我姐姐都在这个杂货店工作。
+- 既是...又是...：... as well as ...
+    - Nursing is a vocation `as well as` a profession. 护理工作既是职业又是救死扶伤的责任。
+    - He shared in my sorrows `as well as` in my joys. 他分担我的快乐也分享我的悲伤。
+    - 注：...as well as...的意思和not only...but (also)...相近，但是前者强调前面的名词，谓语动词与强调的名词一致。
+        - The bedrooms, as well as the kitchen, `need` to be repaired if we rent the house. 如果我们要租这个房子，卧室和厨房都需要维修。
+- 是...而不是...：...rather than...
+    - These are political `rather than` social matters.这是政治问题而不是社会问题。
+
+### 造句练习
+- 1.中国和印度的人口都超过了10亿。
+    - 1.Both China and India have a population of over one billion.
+- 2.我们应该要么把电脑送修要么买台新的。
+    - 2.We should either get the computer fixed or buy a new one.
+- 3.冰箱里既没有牛奶也没有蔬菜。
+    - 3.Neither milk nor vegetables is in the refrigerator.
+- 4.无论下雪、下雨或者高温天气都不能阻止这些邮递员完成他们的投递工作。
+    - 4.Neither snow nor rain nor hot weather prevents these postmen from completing their deliveries.
+- 5.不是公司董事长而是我将出席明天早上的商务会议。
+    - 5.Not the company's president but I am going to the business meeting tomorrow morning.
+- 6.我们都喜欢张小姐，不是因为她是我们老师，而是因为她是美女。
+    - 6.We all like Miss Zhang not because she is our teacher but because she is very beautiful.
+- 7.恶心和呕吐都是食物中毒的症状。
+    - 7.Both nausea and vomiting are signs of food poisoning.
+- 8.他不但英语说得非常好，而且还会说法语。
+    - 8.He can not only speak English very well but also French.
+- 9.这名女子听到这个消息的时候是高兴而不是悲伤。
+    - 9.The woman was happy rather than sad when she heard the news
+
+## 6.把句子套进另一个句子里，变身“大名词”
+- 从句是什么
+    - 就是一个句子在另外一个句子里边做句子成分
+- 名词从句
+    - 一个句子，在另外一个句子里边当名词使用
+    - 4种用法：主语、宾语、同位语、表语
+    - 名词从句需要有引导词：`That` he doesn't like to study makes me angry.
+- that从句：任何一个陈述句，前面加上引导词that，构成that从句。（作宾语/表语时，that可省略）
+    - `That` everyone may receive a moderate education is an object of vital importance. 每个人能够接受适当的教育似乎是一个至关重要的目标。(主语从句)
+    - Many people pretend `that` they understand modern art. 有很多人装成很懂现代艺术的样子。(宾语从句)
+    - The most surprising thing about it, however, is `that` it can land anywhere: on snow, water, or even on a ploughed field. 然而，最令人惊奇的是它能够在任何地方降落:雪地，水面，甚至刚耕过的田里。(表语从句)
+    - No one could account for the fact `that` one of the boxes was extremely heavy.其中有只箱子特别重，可谁也弄不清是怎么回事。(同位语从句)
+- that从句作主语时，为了使主干更紧凑，通常可用it作行驶时主语，而将真正的主语后置
+    - It was obvious `that` he was very embarrassed. 显然他感到很尴尬。
+    - It is a curious coincidence `that` Mr. Page will have been teaching for a total of forty years. 佩奇先生执教满总共40年，这真是奇妙的巧合。
+- consider, deem, think, find, believe五个动词是宾补动词，构成第四大句型，表示“认为...是...”
+    - 我认为健康是非常重要的
+    - I think health very important.其中health是宾语，important是补语
+    - 我认为我们每天说英语是重要的
+    - I think that we should speak English important. X
+    - I think it important that we should speak English.√
+    - I think it necessary that you do it at once.我认为你必须立刻做那件事。
+    - We find it necessary that we practice spoken English every day. 我们发现每天练习英语口语很有必要。
+- whether/if从句：任何一个一般疑问句，前面加上引导词whether或if，构成whether从句，但主语与be动词或助动词的位置还原。如果助动词为do, does, did, 还原后将do, does, did去掉，后面的动词根据人称和时态变化
+    - `Whether` they would support us was a problem. 他们是否会支持我们还是一个问题。(主语从句) 
+    - He asked `if` Mr Gilbert's operation had been successful and the doctor told him that it had been. 他问吉尔伯特先生的手术中否成功，医生告诉他手术很成功。(宾语从句)
+    - On the way home, he asked Jenny `if` she had enjoyed the speech. 在回家的路上，他问珍妮是否喜欢他的祝词。(宾语从句， 直接宾语)
+- 介词后及or not结构中，通常用whether
+    - My sister is only seven, but she always tells me `whether` my pictures are good `or not`. 我的妹妹只有7岁，但她总能说出我的画是好还是坏。
+    - I worry about `whether` I hurt his feeling. 我担心是否伤害了他的感情
+- 疑问词从句：构成方法与whether从句一样，只是将whether换成疑问词而已，句子必须改为陈述句语序
+    - He then asked `when` Mr Gilbert would be allowed to go home and the doctor told him that he would have to stay in hospital for another two weeks.然后他又问吉尔伯特先生什么时候可以回家，医生说他在医院还必须再住上两个星期。(宾语从句，其中when作从句中的状语)
+    - The doctors have not yes decided `how` the woman died. 医生们至今还未确定这位妇女的死因。
+    - I have no idea `what` has happened to him. 我不知道他发生了什么事?
+- 造句练习
+    - 1.谁将负责这项工程还没有(被)决定。(be in charge of)
+        - 1.Who will be in charge of the project hasn't been decided yet.
+    - 2.他要来参加这个会议(已经)使得我们每个人激动了。
+        - 2.That he will come to the conference has excited every one of us.
+    - 3.他告诉我他们会帮助我们完成整个工作的。
+        - 3.He told me that they would help us finish the whole work.
+    - 4.我不知道(wonder)您是否能小声点。
+        - 4.I wonder whether/if you would mind making less noise.
+    - 5.我认为每天多喝水是有必要的。
+        - 5.I think it necessary that we (should) take plenty of water every day.
+    - 6.我不知道(have no idea)他们什么时候回来定居。
+        - 6.I have no idea when they will be back and settle down.
+    - 7.我(已经)发现所有的票都(已经)卖光了。
+        - 7.I have found that all the tickets had been sold out.
+    - 8.问题是这部电视剧是否值得一看。
+        - 8.The question is whether the TV play is worth watching.

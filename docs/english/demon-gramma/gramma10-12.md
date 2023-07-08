@@ -1,0 +1,554 @@
+---
+title: 恶魔奶爸语法10-12课
+date: 2020-11-23 20:36:07
+tags:
+- 英语
+- 语法
+categories:
+- 英语
+description: 恶魔奶爸10-12课学习笔记：10.如何构建长难句的主语和宾语、11.如何正确使用不定式短语、12.条件状语从句和虚拟语气
+---
+
+
+## 10.如何构建长难句的主语和宾语
+### 动名词短语是什么
+- 动名词短语相当于名称从句里边的that从句的化简。任何一个that从句，都可以用动名词短语代替。动名词具有名词的性质。所以，名词能作什么，动名词就能作什么
+- Many people pretend that they understand modern art. = Many people pretend understanding modern art.
+
+### 动名词作主语
+- 举例
+    - Working 12 hours a day exhausts me completely. 每天工作12小时让我筋疲力尽。(动名词具有名词的特征，在没有特指是谁发出这个动作的情况下，可以不考虑其逻辑主语，因为在语境中一眼就能看出是谁发出的动作，比如本句话，主语working 12 hours a day当然是句中的“我"发出的动作)。本句如果改成主语从句，那就是: That I work 12 hours a day exhausts me completely. 但是这里用主语从句，远远不如用动名词短语作主语简洁明了。
+    - Playing football is my favorite sport.踢足球是我最喜欢的运动。
+- 动名词作主语时，和名词从句一样，也可用形式主语It取代，然后将动名词放在句子主干之后（尤其是动名词比较长时）
+    - It was no use pretending that I had not seen him, so I waved to him. 若再装作没看见他已是没有用了，我只好向他招手。
+- 注:动名词短语作主语时，一律视为第三人称单数！但and连接的两个动名词短语作主语时，视为复数。
+    - Singing with you guys is a lot of fun. 和你们一伙人唱歌很有趣。
+    - Learning English and listening to music are my hobbies. 学英语和唱歌时我的爱好。
+- 造句练习
+    - 1.慢跑是保持健康的好方法。
+        - 1.Jogging is a good way to stay health/fit.
+    - 2.与你共事一直以来都是愉快的经历。(用完成进行态)
+        - 2.Working with you has been a pleasant experience. / It has been a pleasant experience to work with you.
+    - 3.说是一回事，做又是另一回事。
+        - 3.Saying is one thing; doing is another.
+    - 4.出国旅游有助于增长你的见识。
+        - 4.Travelling abroad helps broaden your horizons. / lt helps to broaden your horizons to travelling abroad.
+    - 5.做家务和照顾我们的小孩是我老婆每天要做的事。
+        - 5.Doing the housework and taking care of our children are what my wife does every day.
+    - 6.学而不思则罔，思而不学则殆。
+        - 6.Learning without thinking is useless; thinking without learning is dangerous.
+    - 7.相信自己是成功的秘诀!
+        - 7.Believing in yourself is the secret of success.
+    - 8.拥有知己本身就是一种幸福。
+        - 8.Having intimate friends is happiness in itself.
+    - 9.取胜并不重要，但努力去赢得胜利却是重要的。
+        - 9.Winning is not everything, but trying to win is everything.
+    - 10.拥有目标是一种幸福的状态。
+        - 10.Having a goal is a state of happiness.
+    - 11.牛奶已撒，哭也没用。
+        - 11.It is no use crying over spilt milk.
+    - 12.光学习不实践是没用的。
+        - 12.lt is no use learning without practice.
+    - 13.从事自己喜欢的事情没用，你必须喜欢自己从事的事情。
+        - 13.lt is no use doing what you like; you have got to like what you do.
+
+### 动名词作宾语
+- 作及物动词的宾语
+    - I love traveling in the country, but I don't like losing my way. 我喜欢在乡间旅行，但却不愿意迷路。翻译成宾语从句是I love that I travel in the country....
+    - Losers avoid becoming self-responsible. 失败者逃避为自己负责。
+- 作介词的宾语
+    - My friends kept on offering me cigarettes and cigars. 我的朋友们不断地向我递香烟和雪茄。(on和后面的动名词短语一起，作kept的宾语)
+    - Some children can cover the whole length of the pool without coming up for breath even once. 有些孩子能够跑完游泳池的全长而不用露出水面换气。
+- 有些动词只能跟动名词而不能跟不定式作宾语
+    - 懂得欣赏，克制想象：understand, appreciate(也可作”感激“之意), deny(也可作否认，拒绝), imagine
+    - 喜欢实践，逃避抵抗：enjoy, practice, avoid, escape
+    - 介意打扰，讨厌原谅：mind, excuse, dislike/hate, pardon
+    - 支持建议，推迟考虑：favor(也可作赞成，宠爱), suggest, delay/postpone, consider
+    - 错过盼望，完成冒险：miss, look forward to, finish, risk
+- 含有介词to的介词短语，也是动名词作宾语
+    - look forward to: 期待
+    - object to: 反对
+    - be/get used to: 习惯于，注意和used to不一样，I used to love movie.我曾经很喜欢电影。跟I am used to playing basketball.我习惯了打篮球。
+- 造句练习
+    - 1.大多数小朋友喜欢看卡通。
+        - 1.Most children enjoy watching cartoons.
+    - 2.很多大学毕业生正考虑在寻找工作前先去度个假。
+        - 2.A lot of college graduates are considering taking a vacation before their job hunting.
+    - 3.我每晚睡前都练习弹钢琴一个小时 。
+        - 3.I practice playing the piano for an hour before I go to bed every night.
+    - 4.你能想象被困在交通阻塞中超过3小时吗?
+        - 4.Can you imagine being caught in traffic jam for over three hours?
+    - 5.我盼望不久再见到您。再见。
+        - 5.I look forward to seeing you again soon. Goodbye.
+
+### 动名词做表语
+- The subject of life is making choices. 人生的课题就是做选择。
+- Courage is doing what you' re afraid to do. 勇气就是去做自己害怕做的事情。
+
+### 动名词做同位语（较少见）
+- Many people admire his special ability, learning three languages at the same time.很多人都美慕他的特殊能力:同时学习3种语言。
+- My hobby swimming dates from my childhood.我的业余爱好游泳源于我的童年。
+
+### 动名词短语的逻辑主语——所有格+动名词
+- 概述
+    - I remember `that he promised to help these poor students.`
+    - 本句如果改成: I remember `promising to help these poor students.` 那就是一个错句子。因为promising这个动名词，在这样的语境中，会被默认为是主语“我”发出的动作。但是显然和句意不符合。
+    - 这时候，我们就要给动名词加上逻辑主语，原则上，如果主语是代词，通常用所有格，但是如果主语是名词，则用所有格和普通格都正确。
+- 注：美国英语中，可以使用主格（动名词作主语），或宾格（动名词作宾语）代替所有格
+    - `His not finishing` the work disappointed me. 他未能准时完成工作让我失望
+    - Would you mind `my coming` with you? 我跟你一道去行吗?
+    - Excuse `my interrupting you`. 请原谅我打断了您。
+    - 上述3个例句可改为:
+    - He not finishing the work disappointed me.
+    - Would you mind me coming with you?
+    - Excuse me interrupting you.
+- 下列情况即使在正式文体中，动名词的逻辑主语也习惯使用普通格：
+    - 1.逻辑主语为名词指物
+        - The children are looking forward to spring coming.
+    - 2.逻辑主语为多个名词
+        - Do you remember Mary and her mother coming to see us last June?
+    - 3.逻辑主语为以"s"结尾的名词
+        - It's a disaster the bosses shutting all those factories.
+    - 4.逻辑主语与动名词分离
+        - I remember mother once telling us a story about the fox.
+    - 5.逻辑主语为不定代词，如:someone, everything, something;
+        - They complained about everything going wrong.
+- 注意特殊句型
+    - Would/Do you mind + V-ing？你介意...吗？
+        - Would you mind `my opening` the window? It' s very hot in here. 你介意我打开窗户吗?这里太热了!
+        - Do you mind `handing` me that book? 介意把那本书给我吗?
+    - Would/Do you mind + if + 句子？ 
+        - Do you mind if... （真实语气：一般现在时）
+            - Do you mind if I `smoke` here?
+        - Would you mind if... (虚拟语气：一般过去时)
+            - Would you mind if I `smoked` here?
+- 造句练习
+    - 1.我记得他曾经承诺，一旦我们遇到麻烦(get into trouble)他就会来帮助我们。
+        - 1.I remember his/him once promising to help us if we got into trouble.
+    - 2.你介意我提一个建议吗?
+        - 2.Would you mind my/me making a suggestion.
+    - 3.老师拒绝接受我的建议让我很恼火。
+        - 3.My teacher's refusing to accept my suggestion upset me.
+
+### 动名词短语的时态和语态变化
+- 动名词短语和分词短语完全一样，没有“时”的变化，只有“态”的变化，而且同样只有`一般态`和`完成态`。同样，和分词短语一样，动名词的两种态，均有`主动语态`和`被动语态`两种语态
+- 当动名词的动作和主句主语同时发生，用一般态。如果是表示被动的含义，要用被动语态。注意：动名词短语如果是being，任何时候都不能省略
+    - No one can avoid `being influenced` by advertisements.没有人能避免受广告的影响。(一般态，被动语态)
+    - Everyone appreciates `being appreciated.`每个人都喜欢得到赞赏。(一 般态，被动语态)
+    - There is only one thing in the world worse than `being talked about`, and that is not being talked about. 世界上比被人议论更糟糕的一件事，就是根本没人去议论。(王尔德名言 )
+    - `Being` deeply `loved` by someone gives you strength, while `loving` someone deeply gives you courage. 人爱者有力，爱人者勇。(老子)
+- 当动名词的动作，发生在主句动作之前时，要用完成态。（但动名词短语具有名词性质，时态要求没有分词那么严格，此时用一般态也不算错误）
+    - No good thing can be enjoyed by us, without `having cost` labor. 不付出辛劳，我们就不能享受任何美好的事物。(完成态，主动语态)。本句如果用No good thing can be enjoyed by us, without `costing` labor.也不算错误，但是用完成态更好，因为是先劳动，再享受。
+    - I appreciate `having been given` the opportunity to study abroad two years ago.我很感激两年前得到一次出国留学的机会。(完成态，被动语态)
+- 两个短语为固定搭配，虽说是主动的形式，但表达被动的含义
+    - sth. need doing: 某事需要被做
+        - The classroom is so dirty that it `needs cleaning` thoroughly. 教室很脏，需要彻底清洁。
+    - sth. be worth doing: 某事值得被做
+        - By this time, a Lancaster bomber in reasonable condition `was worth rescuing.` 这个时候，一架状态良好的lancaster轰炸机是值得拯救的。
+- 造句练习
+    - 1.这台电视机开关的声音在大街上都能被听到。
+        - 1.The noise of the television being opened and closed can be heard in the street.
+    - 2.我一直后悔上学时没有更加努力的学习。
+        - 2.I have always regretted not having studied harder at school.
+    - 3.墙角处的那个人承认对这家公司的经理撒了谎(tell a lie)。
+        - 3.The man in the corner confessed to having told a lie to the manager of company.
+    - 4.马克每次违反交通规则(break traffic regulation)以后都常常试图逃避被罚款。
+        - 4.Mark often attempts to escape being fined whenever he breaks traffic regulations.
+    - 5.我们的现代文明绝不能被认为(be thought of as)是短期内建立的。
+        - 5.Our modern civilization must not be thought as having been created in a short period of time.
+
+## 11.如何正确使用不定式短语
+### 概述
+- 不定时同时具有和动名词与分词类似的功能。要特别注意，不定时有“逻辑将要”的含义，故其动作发生在前面的动词之后，而且多表达意愿、目的、企图等
+
+### 不定式短语的构成和功能
+- 1.名词从句的化简：作主语，及物动词的宾语，表语，宾语补语
+- 2.状语从句的化简：作状语
+- 3.定语从句的化简：作定语
+
+### 名词从句的化简
+- 作主语
+    - 概述
+        - To make large sums of money is my dream. 挣大钱是我的梦想。(相当于That I wilI make large sums of money is my dream)
+        - 注意:如果本句用Making large sums of money is my dream. 也对，但是用不定式暗示“我要去挣钱”，但目前还没有挣到钱。现代英语中，不定式和动名词作主语一般可通用。
+    - 不定式作主语时，可用形式主语It取代，然后将不定式放在句子主干之后
+        - It was his job to repair bicycles and at that time he used to work fourteen hours a day.他那时的工作是修理自行车，并且通常是一天工作14个小时。(相当于It was his job that he repaired bicycles...)
+        - So, it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs. 因此，听说北海石油钻井平台上的潜水员受到巨型鱼类的恐吓，确实很让人吃惊。(相当于it comes as a surprise that we learn giant fish ....)
+    - 和动名词短语一样，不定式短语作主语时，一律视为第三人称单数！但and连接的两个不定式短语作主语时，视为复数
+        - `To become a great scientist` is his ultimate goaI. 成为伟大的科学家是他的终极目标。
+        - `To study` and `to play` are equally important. 学习和玩耍同样重要。
+    - 造句练习
+        - 1.成为职业篮球选手是我的抱负之一。
+            - To become a professional basketball player is one of my ambitions. /It is one of my ambitions to become a professional basketball player.
+        - 2.精通一门外语需要不断的努力。
+            - To master a foreign language takes constant effort. /It takes constant effort to master a foreign language.
+        - 3.提高我们的生产力是我们今年的主要目标。
+            - To increase our productivity is our main goal this year. /It is our main goal this year to increase our productivity.
+        - 4.对于某些人而言，活着就是受苦。
+            - For some people, to live is to suffer.
+        - 5.一天大笑三次有益健康。
+            - It is good for your health to laugh three times a day.
+        - 6.犯错是人之常情，宽恕则超凡入圣。
+            - To err is human; to forgive is divine.
+        - 7.知道做什么是智慧，知道怎么做是技能。
+            - To know what to do is wisdom. To know how to do it is skilI.
+        - 8.让自己的孩子诚实是教育的开端。
+            - To make your children capable of honesty is the beginning of education.
+        - 9.爱是世界上最美的动词。
+            - To love is the most beautiful verb in the worId.
+        - 10.人生得一知己足矣。
+            - It is enough to have one close friend in one’ s life.
+        - 11.诅咒黑暗不如点亮一支蜡烛。 (临渊羡鱼，不如退而结网)
+            - It is better to light a candle than to curse the darkness.
+- 作及物动词的宾语：（绝对不能作介词的宾语）
+    - attempt企图，choose选择，decide决定，expect期望，hope希望，intend打算，manage设法，offer/volunteer主动提议，plan计划，want要，wish希望，endeavor努力
+    - 大部分及物动词，其后即可用不定式，也可用动名词，比如begin doing = begin to do
+    - 但是表示“企图”或者“意愿”的及物动词，其宾语是“将要发生的事情”，所以通常只能用不定式作宾语
+        - Debbie is only eleven years old and she hopes `to set up a new world record.` 黛比只有11岁，她希望创一项新的世界纪录。(相当于...that she can set up a new world record. )
+        - Last Christmas, the circus owner, Jimmy Gates, decided `to take some presents to a children's hospital.` 去年圣诞节，马戏团老板吉米.盖茨决定送些礼物给儿童医院。
+        - It has four Rolls-Royce Merlin engines, but the group will need `to have only three of them rebuilt.` 该飞机装装配有4台罗尔斯-罗伊斯的默林发动机，但是他们只需要修复其中的3台。(相当于...that they will have only three of them rebuilt. )
+        - The pilot managed `to circle the balloon` for some time. 飞行员设法绕着气球飞了一阵。
+    - 在第四大句型中，不定式作不完全及物动词的宾语时，必须用形式宾语it取代，加上宾语补语之后，再加不定式
+        - 在前面的名词从句部分，学过形式宾语句型：某人 认为 做某事 是怎么样的
+        - 比如：我认为每天多喝水很有必要
+        - I think `it` necessary that I should drink a lot of water.
+        - 同样，本句型中，如果宾语是不定式，也要用形式宾语
+        - think, believe, find, deem, consider + it + (to be) + 名词或形容词（补语）+ 不定式（宾语）
+        - 其中to be可省略
+        - 所以：I think `it` necessary `to drink a lot of water.`
+            - I **consider** `it` a great `honor` to be invited to dinner. 我认为能被邀请参加晚宴是很大的荣幸。
+            - I **deem** `it` a great `honor` to serve you. 我认为为您服务是一项光荣。
+            - A Frenchman, for instance, might **find** `it hard` to laugh at a Russian joke. 例如，法国人听完一则俄国笑话可能很难发笑。
+    - 和名词从句不同，不定式短语还可以和动词make构成宾补句型，用于表示“使某种事情变得怎么样”：make + it + (to be) + 名词或形容词（补语）+ 不定式（宾语）
+        - The invention of computers has `made` it `possible` to free man from the complex labor. 计算机的发明使得人们有可能从繁杂劳动中解放出来。
+        - I `made` it `my  business` to know all about them. 我把了解他们作为我的业务。
+    - 造句练习
+        - 1.我主动提议帮玛丽忙，但她拒绝了(turn sb. down)。
+            - I offered to give Mary a hand, but she turned me down.
+        - 2.我们企图说服约翰戒烟，但没有效果。
+            - We attempted to persuade John to quit smoking, but in vain.
+        - 3.我不觉得理解V0A的慢速英语节目有难度。
+            - I don’t think it difficult to understand the VOA Special English.
+        - 4.虽然声音被听得很清楚，但费了我很长时间才作出反应。
+            - Though the sound could be heard clearly, it took me a long time to react.
+    - 有些及物动词，既可以用动名词也可以用不定式作宾语，但是意义不同。要区分很简单：动名词表示已经做过的事情，不定式表示正打算做的事情
+        - stop doing:停止做某事
+        - stop to do:停下来去做某事
+        - remember doing:记得做过某事
+        - remember to do:记得去做某事
+        - forget doing:忘记做过某事
+        - forget to do:忘记去做某事
+- 作表语（名词性）
+    - 概述
+        - The only way to do this was `to operate.` 搞清的唯一办法就是手术。
+        - My hope is `to become a scientist` like Einstein. 我的希望就是做一个像爱因斯坦那样的科学家。
+    - 主语是人的时候，不定式作表语表示一定会发生的情况（计划，命令，肯定推测等）
+        - I `am to` realize the goal of life. 我一定要实现人生的目标。(肯定推测)
+        - You `are to` be back by 10 o' clock. 你必须十点以前回来。(命令)
+        - You `are not to` smoke in the reading-room. 你不能在阅读室吸烟。(用于否定句表示“禁止”)
+    - 特征动词的表语，通常用不定式（to be可省略）：seem似乎是，appear看起来是，prove被证明是，turn out结果是
+        - The majority of people **seem** `to prefer TV to radio.` 多数人喜欢电视胜过广播。
+        - These birds **seem** `unaffected` by climate.这些鸟似乎不受气候的影响。
+        - He **appears** `a perfectly normaI person.` 他看上去是一个完全正常的人。
+        - The search **proved** `difficult.` 这次搜索被证明是很困难的。
+        - He **turned out**  `to be right.` 结果他是对的。
+        - Babies of two months old do not **appear** `to be reluctant` to enter the water. 两个月的婴儿并未显得不愿意入水。
+        - By this time, a Lancaster bomber in reasonable condition **was worth rescuing.** 这个时候，一架状态良好的lancaster轰炸机是值得拯救的。
+        - The operation, which lasted for over four hours, **proved** `to be very difficult` because of the hard resin which covered the skin. 手术持续了4个多小时，非常难做，因为皮肤上覆盖着一层硬硬的树脂。
+- 作宾语补语 或 被动语态的主语补语：此时不定式如果是to be，可以省略
+    - She wanted him `to repair their son's bicycle!` 她叫他去修理孙子的自行车。
+    - When it was eventually brought to shore, it was found `to be over thirteen feet long.` 当终于把它弄上岸后，人们发现它身长超过了13英尺。(本句中to be可省略)
+- 作同位语
+    - My plan `to visit the town` was refused. 我的参观小镇这个计划被拒绝了。
+    - (相当于同位语从句My plan `that I will visit the town` was refused. )
+- 疑问词+不定式：构成名词短语，用法和名词相同
+    - I was just wondering `how to spend the morning.` 我正不知道怎么消磨这一上午呢。
+    - (相当于宾语从句I was just wondering ^how I would spend the morning.` )
+
+### 状语从句的简化（目的，结果）
+- 概述
+    - 分词短语作状语，可以表示伴随，时间，原因，结果，目的，方式，让步，条件。但是不定式状语只能表目的和结果
+- 作目的状语
+    - Fifteen policemen had to push very hard `to get him off the main street.` 15个警察不得不用很大的力气把它推离主要街道。(相当于目的状语从句... that they could get him off...)
+    - When the bull got close to him, he clumsily stepped aside `to let it pass.` 当公牛逼近他时，他踉跄地住旁边一闪，牛扑空了。(相当于目的状语从句....so that he could let it pass. 由于let是不完全及物动词，故此不定式短语类似第四大句型，it是不定式to let的宾语，pass是宾语补语. )
+    - It was not long before a helicopter arrived on the scene `to rescue the survivors of the plane crash.` 不久，一架直升飞机飞抵飞机失事现场，来搭救这几个幸存者。(相当于目的状语从句...so that it could rescue...)
+    - Specially-made lanterns are hung outside each house `to help the dead to find their way.` 特制的灯笼挂在各家的门外，为的是帮助亡灵看清道路。(相当于 目的状语从句.... that they could help the dead..由于heIp是不完全及物动词，故此不定式短语类似第四大句型)
+- 有时候为了强调目的状语，可以将不定式放在句首
+    - `To acquire knowledge,` one must study; but `to acquire wisdom,` one must observe. 要想获得知识，就必须学习，但是要想获得智慧，就必须学会观察。
+    - `To be really happy and really safe,` one ought to have at least two or three hobbies, and they must alI be real. 要想真正幸福和平安，一个人至少应该有两三种业余爱好，而且必须是真正的爱好。
+- 作结果状语（不定式表示意料之外的结果，而分词短语表示意料之中的结果）
+    - Farm laborers said that they always woke up `to find the work had been done` overnight. 农场工们说，常常一早起来却发现有人在夜里把活干了。(意料之外)
+    - The small company has beaten other big companies, `to win the title` of best business-class service. 这个小航空公司击败了其他大公司从而赢得了最佳商务舱服务奖。(意料之外)
+- 造句练习
+    - 1.憎恨别人，犹如为了除掉一只老鼠而烧掉自己的房子。
+        - Hating people is like burning down your own house to get rid of a rat.
+    - 2.为了赢得这个奖，你应该很努力地奋斗。
+        - To win the award, you should work very hard.
+
+### 定语从句的化简
+- 关系代词作主语引导的定语从句化简（修饰的名词被绝对性形容词修饰的时候）
+    - I have `no` friend `to advise me.` 我没有可以给我忠告的朋友。(相当于I have no friend `who can advise me.` ) (因为本句中有绝对性形容词no，所以用不定式作定语，而不用分词)
+    - He was the `first` person `to greet me` when I arrived there.当我到那儿的时候，他是第一个来迎接我的人。(因为本句中有绝对性形容词first,所以用不定式作定语，而不用分词)
+- 关系代词作宾语引导的定语从句化简。(通常表示“有某事要做”)
+    - I will write a letter. 我要写一封信。
+    - I have a letter to write. 我有一封信要写。
+    - 这两句话中文意思其实是一样的，英文意思也是一样的。此时，不定式to write作定语，修饰名词letter, 但是一定要注意，这里的不定式动词write是及物动词!!! 其修饰的名词letter就是不定式的逻辑宾语! !
+    - He never has anything to do.他从来都是无事可做。(相当于He never has anything `that he can do.` )
+    - 注意:此时的不定式必须是及物动词或者及物动词短语。
+    - 请看这个句子: He is a nice man `to work.` (X)
+    - 这个句子中，work是不及物动词，自然不能接宾语man, 所以，必须改为: He is a nice man `to work with.` 他人不错，可以与他共事。
+- 关系副词引导的定语从句化简：此时不定式短语必须是`不及物动词`，或者`及物动词+宾语`
+    - The time `to go` is July. (不及物动词go) 应该在7月份去。(相当于The time `when we should go` is July. )
+    - It is time `to draw a conclusion.` (及物动词draw+宾语conclusion) 到下结论的时间了。
+    - A good place `to eat food` is the Sichuan restaurant around the corner. 一个吃饭的好地方就是拐角的那家川菜馆。(相当于A good place where we can eat ...)
+    - The only way `to do this` was to operate. 搞清的唯一办法就是手术。(相当于The only way `in which they can do this`...)
+- 造句练习
+    - 1.我有一封信要写。
+        - I have a letter to write.
+    - 2.他是做最后决定的最佳人选。
+        - He is the best man to make the final choice.
+    - 3.在天黑前，我们还有很长的路要走。
+        - We had a long journey to make before nightfall.
+    - 4.她有四个孩子要照顾。
+        - She has four children to take care of.
+    - 5.下一列到达的火车是从纽约开过来的。
+        - The next train to arrive is from New York.
+    - 6.克林顿是这次空难中唯一的幸存者。
+        - Clinton is the only person to survive the air crash.
+    - 7.角色扮演(role playing)是一种有效而且自得其乐的英语学习方法。
+        - Role playing is an effective and enjoyable way to learn English. 
+
+### 不定式的逻辑主语
+- 当不定式的逻辑主语和句子的主语不一致的时候，通常用下面的结构：for + 名词 + 不定式
+    - He expects `for his sister to meet you.` 他期望他妹妹认识你。(相当于He expects `that his sister can meet you.` )
+    - There is no need `for you to go. ` 你没有必要去。
+    - Dentists always ask questions when it is impossible `for you to answer.` 牙科医生们总是在你无法作出回答的时候向你提出问题。
+    - Chinese parents wanted their children to be successful, while American parents expressed a desire `for their children to be happy.` 中国的父母希望孩子成功，而美国的父母表达了他们的愿望，那就是希望他们孩子幸福。
+- 表达“对于...来说做某事是怎样的”，通常都可以采用这种不定式带上逻辑主语的结构：It is + 形容词 + for sb. to do sth.
+    - It is necessary `for him to study English every day.` 对于他来说，每天学习英语是很有必要的。
+- 代词作不定式的逻辑主语时，用宾格。
+    - My sister told me that she would love for me to babysit for her. 姐姐告诉我她很想要我帮她照顾小孩
+- 在It is + 形容词 + for sb. to do sth.句型中，表示人物性格的形容词（聪明，善良，粗心，愚蠢。。等）和不定式连用时，要用of代替for
+    - It's wise `of you` not to argue with your boss. 明智的做法是不和你的老板争吵。
+    - It was very careless `of him` to make such silly mistakes. 他太粗心了，居然犯了如此愚蠢的错误。
+- 造句练习
+    - 1.此刻，我很难表达我的心情。
+        - It’s very difficult for me to express my feelings at this moment.
+    - 2.你有必要亲自去那里一趟。
+        - It’s necessary for you to go there in person.
+    - 3.他很慷慨，把它的车借给了我。
+        - It’s generous of him to lend me his car.
+
+### 不定式短语的时态和语态变化
+- 不定式短语没有“时”的变化，只有“态”的变化
+    - 不定式的4态构成非常简单，就是to+4态
+    - 而不定式的被动语态，就是to+4态的被动语态(但进行态和完成进行态很少用于被动语态)。
+    - 以动词do为例:
+    - ![](https://img.shiqi-lu.tech/20201117145336.png)
+    - He wanted some photographs `to be taken` when he visited Taiwan. 他在台湾参观的时候想找人拍几张照片。(一般态，被动语态)
+- 不定式的完成态，表示不定式的动作发生在谓语动作之前
+    - Fisherman and sailors sometimes claim `to have seen` monsters in the sea. 渔夫和水手们有时声称自己看到过海里的妖怪。(完成态，主动语态)
+    - This building was said `to have been built` from their own designs.这据说是他们自行设计建造的。(完成态， 被动语态)
+- 常见固定搭配
+    - claim to do: 宣称
+    - be said to do: 据说
+    - be supposed/thought/expected to do: 应该
+        - Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who `was supposed to have died` as a young man. 大家都去参加了葬礼，因为那“鬼”不是别人，正是农场主的兄弟埃里克.考科斯。人们以为埃里克年轻时就死了。
+        - When I was a boy, my grandfather told me how a German taxi driver, Franz Bussman, found a brother who was thought `to have been killed` twenty years before. 当我是个孩子的时候，我祖父给我讲了一位德国出租汽车司机弗朗兹.巴斯曼如何找到了据信已在20年前死去的兄弟的事。
+    - seem/appear: 似乎
+- 不定式的进行态，表示不定式的动作与谓语动作同时发生。（不定式进行态不常用，通常只用于seem/appear, happen等动词之后），表达“似乎正在做某事”，“碰巧正在做某事”等等
+    - A pilot noticed a balloon which seemed `to be making for` a Royal Air Force Station nearby. 一个飞行员发现了一只气球，它像是正飞往附近的一个皇家空军基地。
+- 不定式的完成进行态，是完成态的延续动词用法（少见）
+    - The are said to have been collecting stamps.
+    - The are said to have collected stamps.
+    - 据说他们一直在收集邮票。
+- 造句练习
+    - 1.他想要找人立刻把这些信打印出来。
+        - He wanted the letters to be typed at once.
+    - 2.我很抱歉在这个时候还用这么多问题来打扰你。
+        - I'm sorry to have bothered you with so many questions on such an occasion.
+    - 3.她妈妈走进来的时候，他假装正在睡觉。
+        - He pretended to be sleeping when his mother came in. 
+    - 4.那个小女孩今晚好像一直在看电视。
+        - The little girl seems to have been watching TV all this evening.
+
+## 12.条件状语从句和虚拟语气
+### 分类
+- 条件状语从句分为两大类：真实条件状语从句和虚拟语气
+- 请看两句话:
+- 1.如果我明天发了工资,我就请你吃饭。
+- 2.如果明天我彩票中了500万, 我就请你吃饭。
+
+### 真实条件状语从句
+- if(如果...)：后面可加then，如果then省略了，也隐含在句子的意思里
+    - 表示客观事实，主句用一般现在时或现在进行时，从句用一般现在时(可记忆为"主现从现")
+        - If I eat too much, I feel uncomfortable. 如果我吃太多，就会觉得不舒服。(真实的情况，而且主句用的是一般现在时，表示这是客观事实。)
+        - If you can't beat them, join them. 如果你不能打败他们，就加入他们。(谚语 )
+        - If you drink and drive, you are breaking the law. 如果你酒驾，那你就是在违法了。(真实的情况，而且主句用的现在进行时，加强语气，给人一种生动的感觉)
+    - 表示将来可能发生的情况，主句用一般将来时，从句要用一般现在时，此时主句的will表示肯定或很可能发生的事情。（真实的情况，而且主句用的一般将来时，表示这是推测）(可记忆为"主将从现")
+        - `If you park your car in the wrong place,` a traffic policeman will soon find it. 一旦你把汽车停错了地方，交通警很快就会发现。
+        - You will be very lucky `if he lets you go` without a ticket. 如果他没给你罚单就放你走了，算你走运。
+        - `If she comes,` she will get a surprise. 如果她来了，她会感到非常惊奇了。
+        - 注:如果主句的肯定程度不是很高，就可以用别的情态助动词代替will。
+            - Are you successful in language learning? `If it is less successful`, you should do well to try the above ways. 你在语言学习方面成功吗?如果你不那么成功，你应该好好尝试以上的方法。
+            - If they are not brought to the surface soon they may lose their lives. 如果不把他们尽快救到地面上来，他们就有可能丧生。
+            - `If the students are interested` in sports, they can join different sports clubs. 如果学生对运动感兴趣，他们可以加入不同的运动俱乐部。
+    - 如果在条件状语从句中出现了will，不是表示将来时，而是表示意愿
+        - If I `will` prepare, my chance will come someday. 如果我愿意准备，总有一天机会将来临。
+        - If a man `will` not seek knowledge, it will not seek him. 如果一个人不去找知识，知识也不会去找他。
+- unless(除非。。)：unless引导的条件状语从句，其主句否定句比肯定句更常用
+    - All dreams are of no value `unless they are followed by action.` 如果不付诸行动，一切梦想都毫无价值。
+    - I won't call you, `unless something unexpected happens.` 除非有意外事情发生，我将不会给你打电话。
+- 其它常用的连接副词
+    - suppose/supposing (that)
+        - `Suppose you make some mistakes`, it's not the end of the world. 假如你犯了一些错误，这并不是世界的末日。
+    - on condition that
+    - so long as/as long as
+        - `So long as there's something to identify,` we will give people their money back. 只要有东西可以识别，我们会把钱还给人家的。
+        - My parents don't mind what job I `do as long as I am happy.` 我父母不介意我做什么工作，只要我快乐就行。
+    - providing/provided (that)
+        - We can do whatever we wish to do `provided (that)` our wish is strong. 如果我们的愿望很强，我们就能做任何我们想做的事情。
+    - assuming
+        - `Assuming you are willing to work hard,` I see a great future waiting for you. 如果你愿意努力学习，我看到光明的未来在等着你。
+    - once
+        - You'll like her `once you get to know her.` 你一旦了解她，就喜欢她了。
+    - in case
+        - `In case you fail`, don't be discouraged. Keep trying. 假如你失败了，不要气馁， 要继续努力。
+- only if (只有...才)和if only(只要...就)
+    - He can continue to support himself and his family `only if he produces a surplus.` 只有生产有了盈余，他才能继续养活自己和家人。
+    - `Only if` I get a job will I have enough money to go to school. 我只有找到了工作才有足够的钱上学。(only if放句首，主句要倒装)
+    - The Almighty has given men arms long enough to reach the stars `if only they would put them out.` 万能的造物主赋予人类足以够到星辰的手臂，只要人类愿意伸出。
+    - 注: only if前可以加上but
+    - I'll do that, `but only if` we set a few rules. 我可以干，但我们得定几条规矩。
+- 造句练习 
+    - 1.如果我熬夜(stay up)过半夜，第二天早上起来看起来就很糟。
+        - 1.If I stay up over midnight, I looked awful the tomorrow morning.
+    - 2.你如果接受这份昂贵的礼物，就是在受贿了(take a bribe)。
+        - 2.If you accept this expensive gift, you are taking a bribe.
+    - 3.如果明天下雨，我们将取消这个活动。
+        - 3.If it rains tomorrow, we will cancel this activity.
+    - 4.你们大伙如果形成团队(team up),可能有助 于形成个双赢的(win-win)局 面。
+        - 4.If you guys team up, it may help create a win-win situation.
+    - 5.除非你加紧用功，否则你就不能通过考试。
+        - 5.Unless you work harder, you will not pass the examination.
+
+### 虚拟语气的常规用法
+- 概述
+    - 虚拟语气，就是不可能发生的情况的假设，汉语里边的虚拟语气是通过语境实现的，在英语的虚拟语气则是通过谓语动词的变化实现的
+    - 1.就算把整个太平洋的水倒出，也浇不灭我对你爱情的火焰! (暗示:整个太平洋的水能全部倒出来吗?不能!)
+    - 2.如果上天再给我一次重来的机会， 我会对那个女孩说3个字我爱你! (暗示:能有重来的机会吗?没有! )
+- 虚拟语气的常规构成
+    - ![](https://img.shiqi-lu.tech/mweb/16055960586548-2020-11-17.jpg)
+- 现在虚拟
+    - 'Young man,' she answered, 'if you `ate` more and `talked` less, we `would` both enjoy our dinner!' “年轻人，”她回答说，“如果你多吃点，少说点，我们两个都会吃得好的!”
+    - The tunnel `would be` well-ventilated if tall chimneys `were` built above sea-level. 如果再建些伸出海面的高大的烟囱状通风管，隧道就具备了良好的通风条件。
+    - This would solve the problem of ventilation, for if a train `entered` this tunnel, it `would draw` in fresh air behind it. 因为如果有列火车开进隧道，它就把新鲜空气随之抽进了隧道。
+    - if they `knew` how difficult it was to drill through the hard rock, they `would lose heart.` 如果他们知道了钻透那坚硬的岩石有多么困难，他们会丧失信心的。
+- 注：现在虚拟be动词的过去式用were
+    - If I were you, I would take the subway. 如果我是你，我会坐地铁。
+    - 现在虚拟中的“现在”，不一定是发生在现在的事情，也可能是“常态”，也就是对客观事实的虚拟。比如“如果太阳从西边出来，中国队就能打败巴西队”
+- 将来虚拟：比较少见，只是表达一种可能性
+    - If Peter should come again, I would throw him out. 如果彼得再来的话，我会把他轰出去。
+- 过去虚拟
+    - If, at the time, the British `had not feared` invasion, the tunnel `would have been completed.` 如果不是因为那时英国人害怕入侵，隧道早已建成了。
+    - If the Houses of Parliament `had not been burned down` in 1834, the great clock `would never have been erected.` 如果不是国会大厦在1834年被焚毁的话，这座大钟永远也不会建造。
+    - If there `had not been` a hard layer of rock beneath the soil, they `would have completed` the job in a few hours. 如果不是因为土壤下面有一层坚硬的岩石，他们的营救工作仅用几个小时就可以完成了。
+- 补充：if从句中的were, should, had可以放在主语前，同时省略if
+    - If he were here, I would tell him the truth. = `Were` he here, I `would tell` him the truth.
+    - If it should rain, our plan would be spoiled. = `Should` it rain, our plan `would be spoiled.`
+    - If you had helped me, I could have finished the work on time. = `Had` you helped me, I `could have finished` the work on time.
+    - “`Should` humanity leave Earth to travel across the universe," she said, concluding her impassioned explanation, “it `would be no different from` an infant leaving its mother in the middle of a desert!" “人类在宇宙间离开了地球，”她充满激情地说，“就像婴儿在沙漠中离开了母亲!” ——《The wandering earth》Liu Cixin (刘慈欣《流浪地球》)
+- 造句练习
+    - 1.如果当时你帮助我的话，我就可以完成任务了。(当时你没有帮助我)
+        - 1.If you had helped me then, I would have accomplished the mission.
+    - 2.要是我是你，我会坐地铁去那儿。(可惜我不是你)
+        - 2.If I were you, I would go there by subway.
+    - 3.如果我有100万美元，我就会买一套豪华别墅。(可惜我是穷光蛋)
+        - 3.IfI had a million dollars, I would buy a luxury villa.
+    - 4.万一火山爆发了，有可能造成一场可怕的灾难。
+        - 4.If the volcano should erupt, it would cause a terrible disaster.
+
+### 条件状语从句转化为分词短语
+- 分词短语表条件，单从分词短语本身，是看不出真实和虚拟的，只有从主句的时态才能看出来
+    - `Cooked` in wine, snails are a great luxury in various parts of the world. 蜗牛加酒烧煮后，便成了世界上许多地方的一道珍奇的名菜。 (因为主句是一般现在时，所以本句的分词短语是真实条件，相当于真实条件状语从句If snails cooked in wine, ...)
+    - Weather `permitting,` we'll go fishing. 如果天气允许，我们就去钓鱼。(因为主句是一般将来时，所以本句的分词独立主格结构是真实条件，相当于真实条件状语从句If weather permits, we'll go fishing. )
+    - `Added to steel`, chromium increases the metal's hardness. 把铬加进钢里，能增加钢的硬度。(相当于真实条件状语从句If chromium is added to steel, it increases the metal's hardness.)
+    - `Given more time`, I would be able to complete it. 如果多给我一些时间，我就能把它做完。(相当于虚拟条件状语从句If I were given more time, I would be able to complete it.)
+    - `Given the right kind of training,` these teenage soccer players may one day grew the international stars. 如果给予适当形式的训练，这些十几岁的足球运动员有一天会成为国际明星。
+
+### 虚拟语气的特殊用法
+- 与客观真理相反的强烈虚拟语气，从句用were to + 动词原形，主句用过去将来时(would可改为should, might, could)
+    - If I were to live my life over again, I would have you as my wife. 如果有来生，我一定娶你为妻。
+    - If the sun were to rise in the west, I would marry you. 要想我嫁给你?除非太阳从西边出来。
+-  主观意志动词“建议”，“要求”，“命令”3大类之后的宾语从句，要使用助动词should(可省略)
+    - 建议：suggest, advise, propose
+        - He `suggested` that a double railway tunnel `(should) be built.` 他提议建一条双轨隧道， 这样就解决了通风问题。
+    - 要求：demand, require, request, insist
+        - In life, your goals may `require` that you `(should) try` different approaches and persevere. 生活中，你的目标或许要求你尝试不同的方法，然后持之以恒。
+    - 命令：order, command
+- should (ought to) have + 过去分词，表示与过去事实相反的推测，译为“早应，本应该...”
+    - He `should have known` that the police would never allow this sort of thing. 他本该知道警察绝不会允许这类事情发生。
+    - Those who failed to get in need not have felt disappointed as many of the artistes who `should have appeared` did not come. 那些没能进到场内的人没有必要感到失望，因为很多应该出场的专业演员都没有来。
+    - A policeman approached Jimmy and told him he `ought to have` gone along a side-street as Jumbo was holding up the traffic. 一个警察走过来告诉吉米，他应该走一条小路，因为江波阻碍了交通。
+- whether引导的让步状语从句，可用虚拟语气，注：这种句型也可倒装：去掉whether，把be放在从句句首
+    - Whether it `be` bird, fish or beast, the porpoise is intrigued with anything that is alive. 海豚对凡是活的东西都感兴趣，不管是鸟、是鱼，还是野兽。也可变成`Be` bird, fish or beast, the porpoise is intrigued with anything that is alive.
+    - After all, all living creatures live by feeding on something else, whether it `be` plant or animal, dead or alive. 因为一切生物都靠吃别的东西来活命，不管这种东西是植物还是动物，死的还是活的。
+    - `Be` it a rock or a grain of sand, they sink as the same in water. 无论是岩石还是沙粒，在水中都会沉没。
+    - All students of English, `be` they native speakers or those who are studying English as a second language, will profit from this book. 所有学习英语的学生都将从本书中受益，不管是把英语作为母语还是第二语言的学生。
+- wish后面的宾语从句，必须使用虚拟语气
+    - 现在虚拟，用`一般过去时`。
+        - I wish he `were` here. 我真希望他在这儿。
+    - 过去虚拟，用`过去完成时`。
+        - I wish I `had kept` faithful to my childhood dreams. 我希望当初信守儿时的梦想。
+    - 将来虚拟，用`过去将来时`。(would 可改为should, might, could)
+        - I wish you `would keep` on trying to improve your English. 我希望你继续坚持提高英语水平。
+- if only用于虚拟，表示“要是...该多好啊”（时态变化同wish）
+    - If only he `were` here. 要是他在这儿该多好啊!
+    - If only I `had known` it earlier. 要是我早点知道这件事该多好啊。
+    - If only I `would make` a lot of money. 要是我发财该多好啊。
+- as if/ as though用于虚拟，表示“就像...一样”（时态变化同wish）
+    - He acted as if he `had` never `lived` in England before. 他的举动就好像他从未在英国生活过一样。
+    - I do not turn for protection to dreary cliches about respect of elders -- as if mere age `were` a reason for respect. 我不会用应当尊重长者这一套陈词滥调来为我自己辨护，似乎年长就是受人尊敬的理由。
+    - I felt as if `I had stumbled into` a nightmare country, as you sometimes do in dreams. 我感到自己就像平时作梦那样迷迷糊糊地闯进了恶梦境地。就像在恶梦里一样。
+    - It looks as if there `would be` an exciting race across the Channel. 看来会有一场激烈的飞越英吉利海峡的竞争。
+- would rather / would sooner用于虚拟，表示“宁可....”
+    - 现在和将来虚拟，均用一般过去时
+        - I would rather you `had` more health than wealth. 我宁愿你有更多的健康而不是财富。(现在虚拟)
+        - I would rather my father `kept` his mind and body active after he retires in three years. 我宁愿三年后父亲退休以后能保持身心活跃。(将来虚拟)
+    - 过去虚拟，用过去完成时
+        - I would rather my son `had become` a doctor, but he became a teacher after graduating. 我宁愿我儿子做一名医生，但是他毕业后当了教师。
+- lest/in case/for fear的虚拟，表示“以防...”，谓语均要使用should(可省略) + 动词原形
+    - Weigh well your words `lest` they `(should) be` swords. 要斟酌自己的言辞，以防他们伤人。
+    - Take time when time comes, `in case` it `(should) steal` away. 时机来临的时候要抓住，以防它偷偷溜走。
+    - We must not promise what we should not, `for fear that` we (should) be called on to perform what we cannot. 不要许诺不该做的事，以防别人要求我们做我们做不了的事。
+- what if...? 如果...会怎么样呢？
+    - What if he doesn't agree? 如果他不同意该怎么办呢?
+    - But what if your data do not support your hypothesis? Perhaps different experiments are needed. 但是如果你的数据不支持你的假设该怎么办呢?或许需要做不同的实验。( 加州小学3年级科学课本)
+- 造句练习
+    - 1.你若中了一亿美元，你可能会做什么?
+        - 1.If you were to win 100 million dollars, what might you do?
+    - 2.如果我五年前遇到她，今天她可能就是我的妻子了。
+        - 2.If I had met her five years ago, she might be my wife today.
+    - 3.我建议你把这篇作文撕掉，再从头开始写。
+        - 3.I suggest that you (should) tear up the composition and start over again.
+    - 4.我们几个月前就该预见到这一困难。
+        - 4.We should have foreseen the trouble months ago.
+    - 5.既然已完成了工作，你本就应该好好休息一下。
+        - 5.You ought to have a good rest now that you've finished the work.
+    - 6.所有物质，不论是气体、液体、或固体，都是由原子构成的。
+        - 6.All matter, whether it be gas, liquid or solid, is made up of atoms.
+    - 7.我希望我能改掉吸烟的习惯。
+        - 7.I wish I could get out of the habit of smoking.
+    - 8.我倒希望你当初别把这一切都告诉我。
+        - 8.I wish you hadn't told me all this.
+    - 9.我多么希望你妹妹能在这儿。
+        - 9.I wish your sister were here.
+    - 10.太疲倦了。 如果明天能不上班多好。
+        - 10.I am so tired. If only I would take the day off tomorrow.
+    - 11.玛丽对着我微笑，仿佛他已经了解我想要什么。
+        - 11.Mary is smiling at me as if she had understood what I want.
+    - 12.我们小声说话以免吵醒婴儿。
+        - 12.We talked in a low voice lest we should wake the baby up.
+    - 13.我要是没有买这栋房子又会怎么样呢?
+        - 13.What if I have not bought this house?
+
