@@ -104,6 +104,11 @@ export default defineUserConfig({
                     },
                 ],
             }, {
+                text: '大数据',
+                children: [
+                    '/bigdata/zookeeper-starter.md',
+                ],
+            }, {
                 text: '英语',
                 children: [
                     {
