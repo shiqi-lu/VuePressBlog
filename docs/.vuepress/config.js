@@ -90,6 +90,8 @@ export default defineUserConfig({
                         collapsible: true,
                         children: [
                             '/algorithm/selection/binary-search.md',
+                            '/algorithm/selection/sort-algo.md',
+                            '/algorithm/selection/mass-data-processing.md',
                             '/algorithm/selection/throttling-algorithm.md',
                         ],
                     },
