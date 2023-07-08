@@ -26,6 +26,32 @@ export default defineUserConfig({
                 children: [
                 ],
             }, {
+                text: '网络',
+                children: [
+                    {
+                        text: '《透视HTTP协议》学习笔记',
+                        collapsible: true,
+                        children: [
+                            '/network/http-perspective/http-perspective-1.md',
+                            '/network/http-perspective/http-perspective-2.md',
+                            '/network/http-perspective/http-perspective-3.md',
+                        ],
+                    // },{
+                    //     text: '《TCP/IP网络编程》学习笔记',
+                    //     collapsible: true,
+                    //     children: [
+                    //         '/network/tcpip-network-program/tcpip-network-programming-1.md',
+                    //         '/network/tcpip-network-program/tcpip-network-programming-2.md',
+                    //         '/network/tcpip-network-program/tcpip-network-programming-3.md',
+                    //         '/network/tcpip-network-program/tcpip-network-programming-4.md',
+                    //         '/network/tcpip-network-program/tcpip-network-programming-5.md',
+                    //         '/network/tcpip-network-program/tcpip-network-programming-6.md',
+                    //     ],
+                    },
+                    '/network/nginx-starter.md',
+                    '/network/network-interview.md',
+                ],
+            }, {
                 text: '数据库',
                 children: [
                     '/database/db-design-thing.md',
