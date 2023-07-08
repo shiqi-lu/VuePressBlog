@@ -36,7 +36,7 @@ export default defineUserConfig({
                             '/network/http-perspective/http-perspective-2.md',
                             '/network/http-perspective/http-perspective-3.md',
                         ],
-                    },{
+                    }, {
                         text: '《TCP/IP网络编程》学习笔记',
                         collapsible: true,
                         children: [
@@ -63,7 +63,7 @@ export default defineUserConfig({
                             '/database/mysql-crash-course/mysql-crash-course-11-20.md',
                             '/database/mysql-crash-course/mysql-crash-course-21-30.md',
                         ],
-                    },{
+                    }, {
                         text: '《Redis核心技术与实战》学习笔记',
                         collapsible: true,
                         children: [
@@ -115,7 +115,7 @@ export default defineUserConfig({
                             '/distribute-arch/distribute-theory/distributed-lock.md',
                             '/distribute-arch/distribute-theory/distributed-transaction.md',
                         ],
-                    },{
+                    }, {
                         text: '沈剑架构师训练营',
                         collapsible: true,
                         children: [
@@ -128,6 +128,21 @@ export default defineUserConfig({
                             '/distribute-arch/shenjian/arch-sj-7.md',
                             '/distribute-arch/shenjian/arch-sj-8.md',
                             '/distribute-arch/shenjian/arch-miao-sha.md',
+                        ],
+                    },
+                ],
+            }, {
+                text: '云原生',
+                children: [
+                    {
+                        text: 'k8s学习笔记',
+                        collapsible: true,
+                        children: [
+                            '/cloud-compute/k8s-shang/k8s-4.md',
+                            '/cloud-compute/k8s-shang/k8s-5.md',
+                            '/cloud-compute/k8s-shang/k8s-6.md',
+                            '/cloud-compute/k8s-shang/k8s-7.md',
+                            '/cloud-compute/k8s-shang/k8s-8.md',
                         ],
                     },
                 ],
@@ -161,7 +176,7 @@ export default defineUserConfig({
                     '/other/high-quality-sleep.md',
                     '/other/off-time.md',
                 ],
-            }, 
+            },
         ],
     }),
 })
