@@ -23,13 +23,10 @@ export default defineUserConfig({
                 link: '/',
             }, {
                 text: '编程语言',
-                // link: '/language/',
                 children: [
                 ],
             }, {
                 text: '数据库',
-                // collapsible: true,
-                // link: '/algorithm/',
                 children: [
                     '/database/db-design-thing.md',
                     {
@@ -40,12 +37,17 @@ export default defineUserConfig({
                             '/database/mysql-crash-course/mysql-crash-course-11-20.md',
                             '/database/mysql-crash-course/mysql-crash-course-21-30.md',
                         ],
+                    },{
+                        text: '《Redis核心技术与实战》学习笔记',
+                        collapsible: true,
+                        children: [
+                            '/database/redis-gt/redis-gt-1.md',
+                            '/database/redis-gt/redis-gt-2.md',
+                        ],
                     },
                 ],
             }, {
                 text: '数据结构和算法',
-                // collapsible: true,
-                // link: '/algorithm/',
                 children: [
                     {
                         text: 'Leetcode刷题笔记',
@@ -68,7 +70,6 @@ export default defineUserConfig({
                 ],
             }, {
                 text: '分布式与架构',
-                // link: '/language/',
                 children: [
                     {
                         text: '分布式理论',
@@ -104,7 +105,6 @@ export default defineUserConfig({
                 ],
             }, {
                 text: '英语',
-                // link: '/language/',
                 children: [
                     {
                         text: '恶魔奶爸语法',
