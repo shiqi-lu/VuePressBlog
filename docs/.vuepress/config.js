@@ -32,6 +32,15 @@ export default defineUserConfig({
                 // link: '/algorithm/',
                 children: [
                     '/database/db-design-thing.md',
+                    {
+                        text: '《MySQL必知必会》学习笔记',
+                        collapsible: true,
+                        children: [
+                            '/database/mysql-crash-course/mysql-crash-course-1-10.md',
+                            '/database/mysql-crash-course/mysql-crash-course-11-20.md',
+                            '/database/mysql-crash-course/mysql-crash-course-21-30.md',
+                        ],
+                    },
                 ],
             }, {
                 text: '数据结构和算法',
