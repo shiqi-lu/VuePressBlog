@@ -8,6 +8,11 @@ export default defineUserConfig({
     extendsMarkdown: md => {
         md.use(mathjax3)
     },
+    head: [
+        [
+            'link', { rel: 'icon', href: 'https://img.shiqi-lu.tech/47logo1.jpg' }
+        ]
+    ],
     theme: defaultTheme({
         logo: 'https://img.shiqi-lu.tech/47logo1.jpg',
         sidebarDepth: 1,
