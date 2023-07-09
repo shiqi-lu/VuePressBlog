@@ -13,7 +13,7 @@ description: 包括二分查找一个数、左侧区间、右侧区间，6种不
 
 ## 寻找一个数的二分查找(搜索区间两端都闭)
 
-```java
+```cpp
 int binarySearch(int[] nums, int target) {
     // 搜索区间是左闭右闭[left, right]
     int left = 0;
@@ -45,7 +45,7 @@ int binarySearch(int[] nums, int target) {
 
 ## 寻找一个数的二分查找(搜索区间左闭右开)
 - 当然，如果非要用while(left < right)也可以，需要打一个补丁
-```java
+```cpp
 //...
 while (left < right) {
     // ...
@@ -54,7 +54,7 @@ return nums[left] == target ? left : -1;
 ```
 
 ## 寻找左侧边界的二分查找(搜索区间左闭右开)
-```java
+```cpp
 // 寻找到的左侧边界的索引下标i即，nums 中小于 target 的数有 i 个
 // 换句话说，如果 target 要插入到 nums 应插入到位置 i
 // 如对有序数组nums=[2,3,3,5,7]
@@ -108,7 +108,7 @@ int left_bound(int[] nums, int target) {
 ## 寻找左侧边界的二分查找(搜索区间两端都闭)
 - 可以，只要明白「搜索区间」的概念，就能有效避免漏掉元素
 - 因为要求搜索区间两端都闭，所以right应该初始化为`nums.length - 1`，while的终止条件应该是`left == right + 1`，即用<=
-```java
+```cpp
 int left_bound(int[] nums, int target) {
     // 搜索区间为[left, right]
     int left = 0, right = nums.length - 1;
@@ -143,7 +143,7 @@ int left_bound(int[] nums, int target) {
 
 ## 寻找右侧边界的二分查找(搜索区间左闭右开)
 - 只有两处和搜索左侧边界不同
-```java
+```cpp
 int right_bound(int[] nums, int target) {
     if (nums.length == 0) return -1;
     int left = 0, right = nums.length;
@@ -181,7 +181,7 @@ int right_bound(int[] nums, int target) {
 ```
 
 ## 寻找右侧边界的二分查找(搜索区间两端都闭)
-```java
+```cpp
 int right_bound(int[] nums, int target) {
     int left = 0, right = nums.length - 1;
     // 终止条件时，left == right + 1
@@ -220,23 +220,23 @@ int right_bound(int[] nums, int target) {
         - 循环判断规则为`left <= right`
         - 结束时`left == right+1`
         - 判断规则如下
-```java
-else if (nums[mid] < target) {
-    left = mid + 1;
-} else if (target < nums[mid]) {
-    right = mid - 1;
-```
+    ```cpp
+    else if (nums[mid] < target) {
+        left = mid + 1;
+    } else if (target < nums[mid]) {
+        right = mid - 1;
+    ```
     - 采用左闭右开的写法时(仅在查找左侧和右侧边界)
         - 初始化为`left = 0; right = nums.length`
         - 循环判断规则为`left < right`
         - 结束时`left == right`
         - 判断规则如下
-```java
-else if (nums[mid] < target) {
-    left = mid + 1;
-} else if (target < nums[mid]) {
-    right = mid;
-```
+    ```cpp
+    else if (nums[mid] < target) {
+        left = mid + 1;
+    } else if (target < nums[mid]) {
+        right = mid;
+    ```
 - 2.确定哪种二分查找以及查找过程中mid的意义
     - 查找一个数(两端都闭)+查找一个数(左闭右开)：判断当前mid是否为要找的数：是的话直接返回`return mid;`
     - 寻找左侧边界(左闭右开)：此时均应该收缩右边界，因右为开区间，即把 right 当作新边界，`right = mid;`
@@ -252,7 +252,7 @@ else if (nums[mid] < target) {
 
 ## 现有语言的二分查找库函数调用
 - C++
-```c++
+```cpp
 #include <iostream>
 #include <algorithm>
 #include <vector>
