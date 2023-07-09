@@ -84,6 +84,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/2.Add-Two-Numbers.md',
                             '/algorithm/leetcode/3.Longest-Substring-Without-Repeating-Characters.md',
                             '/algorithm/leetcode/206.Reverse-Linked-List.md',
+                            '/algorithm/leetcode/207.Binary-Search.md',
                         ],
                     }, {
                         text: '算法总结',
