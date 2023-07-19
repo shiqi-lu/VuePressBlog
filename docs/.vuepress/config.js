@@ -88,6 +88,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/1.two-sum.md',
                             '/algorithm/leetcode/2.Add-Two-Numbers.md',
                             '/algorithm/leetcode/3.Longest-Substring-Without-Repeating-Characters.md',
+                            '/algorithm/leetcode/53.Maximum-Subarray.md',
                             '/algorithm/leetcode/121.Best-Time-to-Buy-and-Sell-Stock.md',
                             '/algorithm/leetcode/206.Reverse-Linked-List.md',
                             '/algorithm/leetcode/207.Binary-Search.md',
