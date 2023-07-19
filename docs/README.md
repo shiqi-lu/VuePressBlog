@@ -25,7 +25,8 @@ sidebarDepth: 0
 * 2023.7.28前：更新 Hadoop、Hbase 的学习笔记
 * 2023.7.21前：更新 vuepress 2 的博客更新纪要
 * 2023.7.21前：更新 RMQ、Kafka 的学习笔记
-* ✅ 2023.7.19：更新 [leetcode 53. 最大子数组和(Maximum Subarray)E](/algorithm/leetcode/53.Maximum-Subarray.md)
+* 2023.7.19：
+    * ✅ 更新 [leetcode 53. 最大子数组和(Maximum Subarray)E](/algorithm/leetcode/53.Maximum-Subarray.md)
 
 ## 备案
 
