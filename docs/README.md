@@ -13,19 +13,19 @@ sidebarDepth: 0
 
 博主涉猎内容较广，对技术比较感兴趣，曾经工作过的内容有：在初创公司做存储相关工作、在AI+药物公司做算法工程、在某大厂做广告平台，博主自身希望能在技术这一行有更长远的发展，希望以此博客作为自己不断努力的见证。
 
-## 近期计划
+## 联系博主
+* GitHub: [GitHub](https://github.com/shiqi-lu)
 
-此处用于记录博主当下的更新记录关注内容，用于激励自己多用文字输出，相当于用输出倒逼自己努力学习加油产出
+* Email: traumlou [at] 163.com
 
+## 近期更新+计划
+
+此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出，完整的记录查看[github的提交](https://github.com/shiqi-lu/VuePressBlog)
+
+* 2023.7.28前：更新 Hadoop、Hbase 的学习笔记
 * 2023.7.21前：更新 vuepress 2 的博客更新纪要
 * 2023.7.21前：更新 RMQ、Kafka 的学习笔记
-* 2023.7.28前：更新 Hadoop、Hbase 的学习笔记
-
-## 近期更新
-
-此处用于记录博客的最新发布文章的记录，方便查看自己的是否有努力好好学习坚持输出，完整的记录查看[github的提交](https://github.com/shiqi-lu/VuePressBlog)
-
-
+* ✅ 2023.7.19：更新 [leetcode 53. 最大子数组和(Maximum Subarray)E](/algorithm/leetcode/53.Maximum-Subarray.md)
 
 ## 备案
 
