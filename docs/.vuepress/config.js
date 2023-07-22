@@ -92,6 +92,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md',
                             '/algorithm/leetcode/121.Best-Time-to-Buy-and-Sell-Stock.md',
                             '/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md',
+                            '/algorithm/leetcode/145.Binary-Tree-Postorder-Traversal.md',
                             '/algorithm/leetcode/206.Reverse-Linked-List.md',
                             '/algorithm/leetcode/207.Binary-Search.md',
                         ],
