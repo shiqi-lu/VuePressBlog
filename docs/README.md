@@ -25,6 +25,11 @@ sidebarDepth: 0
 * 2023.7.28前：更新 Hadoop、Hbase 的学习笔记
 * 2023.7.21前：更新 vuepress 2 的博客更新纪要
 * 2023.7.21前：更新 RMQ、Kafka 的学习笔记
+* 2023.7.22:
+    * ✅ 更新 [leetcode 94. 二叉树的中序遍历(Binary Tree Inorder Traversal)E]('/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md')
+    * ✅ 更新 [leetcode # 144. 二叉树的前序遍历(Binary Tree Preorder Traversal)E]('/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md')
+* 2023.7.21:
+    * ✅ 更新 [leetcode 20. 有效的括号(Valid Parentheses)E]('/algorithm/leetcode/20.Valid-Parentheses.md')
 * 2023.7.19：
     * ✅ 更新 [leetcode 53. 最大子数组和(Maximum Subarray)E](/algorithm/leetcode/53.Maximum-Subarray.md)
 

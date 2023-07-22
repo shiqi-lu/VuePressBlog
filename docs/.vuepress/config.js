@@ -84,13 +84,14 @@ export default defineUserConfig({
                         text: 'Leetcode刷题笔记',
                         collapsible: true,
                         children: [
-                            '/algorithm/leetcode/0.general.md',
                             '/algorithm/leetcode/1.two-sum.md',
                             '/algorithm/leetcode/2.Add-Two-Numbers.md',
                             '/algorithm/leetcode/3.Longest-Substring-Without-Repeating-Characters.md',
                             '/algorithm/leetcode/20.Valid-Parentheses.md',
                             '/algorithm/leetcode/53.Maximum-Subarray.md',
+                            '/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md',
                             '/algorithm/leetcode/121.Best-Time-to-Buy-and-Sell-Stock.md',
+                            '/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md',
                             '/algorithm/leetcode/206.Reverse-Linked-List.md',
                             '/algorithm/leetcode/207.Binary-Search.md',
                         ],
@@ -98,6 +99,7 @@ export default defineUserConfig({
                         text: '算法总结',
                         collapsible: true,
                         children: [
+                            '/algorithm/leetcode/0.general.md',
                             '/algorithm/selection/binary-search.md',
                             '/algorithm/selection/sort-algo.md',
                             '/algorithm/selection/mass-data-processing.md',
