@@ -142,6 +142,12 @@ export default defineUserConfig({
                             '/distribute-arch/shenjian/arch-sj-8.md',
                             '/distribute-arch/shenjian/arch-miao-sha.md',
                         ],
+                    }, {
+                        text: '设计模式',
+                        collapsible: true,
+                        children: [
+                            '/distribute-arch/design-pattern/singleton.md',
+                        ],
                     },
                 ],
             }, {
