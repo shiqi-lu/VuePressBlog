@@ -96,6 +96,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/145.Binary-Tree-Postorder-Traversal.md',
                             '/algorithm/leetcode/206.Reverse-Linked-List.md',
                             '/algorithm/leetcode/207.Binary-Search.md',
+                            '/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md',
                         ],
                     }, {
                         text: '算法总结',
