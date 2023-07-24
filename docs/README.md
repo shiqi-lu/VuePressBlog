@@ -27,6 +27,7 @@ sidebarDepth: 0
 * 2023.7.21前：更新 RMQ、Kafka 的学习笔记
 * 2023.7.24:
     * ✅ 更新 [leetcode # 236. 二叉树的最近公共祖先(Lowest Common Ancestor of a Binary Tree)M](/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md)
+    * ✅ 更新 [leetcode # 103. 二叉树的锯齿形层次遍历(Binary Tree Zigzag Level Order Traversal)M](/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md)
 * 2023.7.23:
     * ✅ 更新 [leetcode # 102. 二叉树的层序遍历(Binary Tree Level Order Traversal)M](/algorithm/leetcode/102.Binary-Tree-Level-Order-Traversal.md)
     * ✅ 更新 [单例模式]('/distribute-arch/design-pattern/singleton.md)

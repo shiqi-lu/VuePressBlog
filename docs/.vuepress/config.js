@@ -91,6 +91,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/53.Maximum-Subarray.md',
                             '/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md',
                             '/algorithm/leetcode/102.Binary-Tree-Level-Order-Traversal.md',
+                            '/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md',
                             '/algorithm/leetcode/121.Best-Time-to-Buy-and-Sell-Stock.md',
                             '/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md',
                             '/algorithm/leetcode/145.Binary-Tree-Postorder-Traversal.md',
