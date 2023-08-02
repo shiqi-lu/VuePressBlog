@@ -87,6 +87,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/1.two-sum.md',
                             '/algorithm/leetcode/2.Add-Two-Numbers.md',
                             '/algorithm/leetcode/3.Longest-Substring-Without-Repeating-Characters.md',
+                            '/algorithm/leetcode/5.Longest-Palindromic-Substring.md',
                             '/algorithm/leetcode/20.Valid-Parentheses.md',
                             '/algorithm/leetcode/53.Maximum-Subarray.md',
                             '/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md',
@@ -98,6 +99,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/206.Reverse-Linked-List.md',
                             '/algorithm/leetcode/207.Binary-Search.md',
                             '/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md',
+                            '/algorithm/leetcode/300.Longest-Increasing-Subsequence.md',
                         ],
                     }, {
                         text: '算法总结',

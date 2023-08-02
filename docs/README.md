@@ -20,11 +20,11 @@ sidebarDepth: 0
 
 ## 近期更新+计划
 
-此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出，完整的记录查看[github的提交](https://github.com/shiqi-lu/VuePressBlog)
+此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出
 
-* 2023.7.28前：更新 Hadoop、Hbase 的学习笔记
-* 2023.7.21前：更新 vuepress 2 的博客更新纪要
-* 2023.7.21前：更新 RMQ、Kafka 的学习笔记
+* 2023.8.2:
+    * ✅ 更新 [leetcode # 5. 最长回文子串(Longest Palindromic Substring)M](/algorithm/leetcode/5.Longest-Palindromic-Substring.md)
+    * ✅ 更新 [leetcode # 300. 最长上升子序列(Longest Increasing Subsequence)M](/algorithm/leetcode/300.Longest-Increasing-Subsequence.md)
 * 2023.7.24:
     * ✅ 更新 [leetcode # 236. 二叉树的最近公共祖先(Lowest Common Ancestor of a Binary Tree)M](/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md)
     * ✅ 更新 [leetcode # 103. 二叉树的锯齿形层次遍历(Binary Tree Zigzag Level Order Traversal)M](/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md)
