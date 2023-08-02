@@ -90,6 +90,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/5.Longest-Palindromic-Substring.md',
                             '/algorithm/leetcode/20.Valid-Parentheses.md',
                             '/algorithm/leetcode/53.Maximum-Subarray.md',
+                            '/algorithm/leetcode/70.Climbing-Stairs.md',
                             '/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md',
                             '/algorithm/leetcode/102.Binary-Tree-Level-Order-Traversal.md',
                             '/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md',
@@ -100,6 +101,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/207.Binary-Search.md',
                             '/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md',
                             '/algorithm/leetcode/300.Longest-Increasing-Subsequence.md',
+                            '/algorithm/leetcode/509.Fibonacci-Number.md',
                             '/algorithm/leetcode/1143.Longest-Common-Subsequence.md',
                         ],
                     }, {
