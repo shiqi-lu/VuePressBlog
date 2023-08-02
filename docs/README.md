@@ -23,19 +23,20 @@ sidebarDepth: 0
 此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出
 
 * 2023.8.2:
-    * ✅ 更新 [leetcode # 5. 最长回文子串(Longest Palindromic Substring)M](/algorithm/leetcode/5.Longest-Palindromic-Substring.md)
-    * ✅ 更新 [leetcode # 300. 最长上升子序列(Longest Increasing Subsequence)M](/algorithm/leetcode/300.Longest-Increasing-Subsequence.md)
+    * ✅ 更新 [leetcode 5. 最长回文子串(Longest Palindromic Substring)M](/algorithm/leetcode/5.Longest-Palindromic-Substring.md)
+    * ✅ 更新 [leetcode 300. 最长上升子序列(Longest Increasing Subsequence)M](/algorithm/leetcode/300.Longest-Increasing-Subsequence.md)
+    * ✅ 更新 [leetcode 1143. 最长公共子序列(Longest Common Subsequence)M](/algorithm/leetcode/1143.Longest-Common-Subsequence.md)
 * 2023.7.24:
-    * ✅ 更新 [leetcode # 236. 二叉树的最近公共祖先(Lowest Common Ancestor of a Binary Tree)M](/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md)
-    * ✅ 更新 [leetcode # 103. 二叉树的锯齿形层次遍历(Binary Tree Zigzag Level Order Traversal)M](/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md)
+    * ✅ 更新 [leetcode 236. 二叉树的最近公共祖先(Lowest Common Ancestor of a Binary Tree)M](/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md)
+    * ✅ 更新 [leetcode 103. 二叉树的锯齿形层次遍历(Binary Tree Zigzag Level Order Traversal)M](/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md)
 * 2023.7.23:
-    * ✅ 更新 [leetcode # 102. 二叉树的层序遍历(Binary Tree Level Order Traversal)M](/algorithm/leetcode/102.Binary-Tree-Level-Order-Traversal.md)
+    * ✅ 更新 [leetcode 102. 二叉树的层序遍历(Binary Tree Level Order Traversal)M](/algorithm/leetcode/102.Binary-Tree-Level-Order-Traversal.md)
     * ✅ 更新 [单例模式]('/distribute-arch/design-pattern/singleton.md)
     
 * 2023.7.22:
-    * ✅ 更新 [leetcode # 144. 二叉树的前序遍历(Binary Tree Preorder Traversal)E](/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md)
+    * ✅ 更新 [leetcode 144. 二叉树的前序遍历(Binary Tree Preorder Traversal)E](/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md)
     * ✅ 更新 [leetcode 94. 二叉树的中序遍历(Binary Tree Inorder Traversal)E](/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md)
-    * ✅ 更新 [leetcode # 145. 二叉树的后序遍历(Binary Tree Postorder Traversal)E](/algorithm/leetcode/145.Binary-Tree-Postorder-Traversal.md)
+    * ✅ 更新 [leetcode 145. 二叉树的后序遍历(Binary Tree Postorder Traversal)E](/algorithm/leetcode/145.Binary-Tree-Postorder-Traversal.md)
 * 2023.7.21:
     * ✅ 更新 [leetcode 20. 有效的括号(Valid Parentheses)E](/algorithm/leetcode/20.Valid-Parentheses.md)
 * 2023.7.19：

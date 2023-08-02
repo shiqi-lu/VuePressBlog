@@ -100,6 +100,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/207.Binary-Search.md',
                             '/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md',
                             '/algorithm/leetcode/300.Longest-Increasing-Subsequence.md',
+                            '/algorithm/leetcode/1143.Longest-Common-Subsequence.md',
                         ],
                     }, {
                         text: '算法总结',
