@@ -23,30 +23,30 @@ sidebarDepth: 0
 此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出
 
 * 2023.8.3:
-    * 新增[LeetCode题目分类](/algorithm/selection/leetcode-category.md)
-    * [leetcode 21. 合并两个有序链表(Merge Two Sorted Lists)E](/algorithm/leetcode/21.Merge-Two-Sorted-Lists.md)
+    * [LeetCode题目分类](/algorithm/selection/leetcode-category.md)
+    * [21. 合并两个有序链表(Merge Two Sorted Lists)E](/algorithm/leetcode/21.Merge-Two-Sorted-Lists.md)
     * [141. 环形链表(Linked List Cycle)E](/algorithm/leetcode/141.Linked-List-Cycle.md)
     * [415. 字符串相加(Add Strings)E](/algorithm/leetcode/415.Add-Strings.md)
 * 2023.8.2:
-    * [leetcode 5. 最长回文子串(Longest Palindromic Substring)M](/algorithm/leetcode/5.Longest-Palindromic-Substring.md)
-    * [leetcode 300. 最长上升子序列(Longest Increasing Subsequence)M](/algorithm/leetcode/300.Longest-Increasing-Subsequence.md)
-    * [leetcode 1143. 最长公共子序列(Longest Common Subsequence)M](/algorithm/leetcode/1143.Longest-Common-Subsequence.md)
-    * [leetcode 70. 爬楼梯(Climbing Stairs)E](/algorithm/leetcode/70.Climbing-Stairs.md)
-    * [leetcode 509. 斐波那契数(Fibonacci Number)E](/algorithm/leetcode/509.Fibonacci-Number.md)
+    * [5. 最长回文子串(Longest Palindromic Substring)M](/algorithm/leetcode/5.Longest-Palindromic-Substring.md)
+    * [300. 最长上升子序列(Longest Increasing Subsequence)M](/algorithm/leetcode/300.Longest-Increasing-Subsequence.md)
+    * [1143. 最长公共子序列(Longest Common Subsequence)M](/algorithm/leetcode/1143.Longest-Common-Subsequence.md)
+    * [70. 爬楼梯(Climbing Stairs)E](/algorithm/leetcode/70.Climbing-Stairs.md)
+    * [509. 斐波那契数(Fibonacci Number)E](/algorithm/leetcode/509.Fibonacci-Number.md)
 * 2023.7.24:
-    * [leetcode 236. 二叉树的最近公共祖先(Lowest Common Ancestor of a Binary Tree)M](/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md)
-    * [leetcode 103. 二叉树的锯齿形层次遍历(Binary Tree Zigzag Level Order Traversal)M](/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md)
+    * [236. 二叉树的最近公共祖先(Lowest Common Ancestor of a Binary Tree)M](/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md)
+    * [103. 二叉树的锯齿形层次遍历(Binary Tree Zigzag Level Order Traversal)M](/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md)
 * 2023.7.23:
-    * [leetcode 102. 二叉树的层序遍历(Binary Tree Level Order Traversal)M](/algorithm/leetcode/102.Binary-Tree-Level-Order-Traversal.md)
+    * [102. 二叉树的层序遍历(Binary Tree Level Order Traversal)M](/algorithm/leetcode/102.Binary-Tree-Level-Order-Traversal.md)
     * [单例模式]('/distribute-arch/design-pattern/singleton.md)
 * 2023.7.22:
-    * [leetcode 144. 二叉树的前序遍历(Binary Tree Preorder Traversal)E](/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md)
-    * [leetcode 94. 二叉树的中序遍历(Binary Tree Inorder Traversal)E](/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md)
-    * [leetcode 145. 二叉树的后序遍历(Binary Tree Postorder Traversal)E](/algorithm/leetcode/145.Binary-Tree-Postorder-Traversal.md)
+    * [144. 二叉树的前序遍历(Binary Tree Preorder Traversal)E](/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md)
+    * [94. 二叉树的中序遍历(Binary Tree Inorder Traversal)E](/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md)
+    * [145. 二叉树的后序遍历(Binary Tree Postorder Traversal)E](/algorithm/leetcode/145.Binary-Tree-Postorder-Traversal.md)
 * 2023.7.21:
-    * [leetcode 20. 有效的括号(Valid Parentheses)E](/algorithm/leetcode/20.Valid-Parentheses.md)
+    * [20. 有效的括号(Valid Parentheses)E](/algorithm/leetcode/20.Valid-Parentheses.md)
 * 2023.7.19：
-    * [leetcode 53. 最大子数组和(Maximum Subarray)E](/algorithm/leetcode/53.Maximum-Subarray.md)
+    * [53. 最大子数组和(Maximum Subarray)E](/algorithm/leetcode/53.Maximum-Subarray.md)
 
 ## 备案
 
