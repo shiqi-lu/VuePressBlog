@@ -22,6 +22,9 @@ sidebarDepth: 0
 
 此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出
 
+* 2023.8.3:
+    * [leetcode 21. 合并两个有序链表(Merge Two Sorted Lists)E](/algorithm/leetcode/21.Merge-Two-Sorted-Lists.md)
+    * 新增[LeetCode题目分类](/algorithm/selection/leetcode-category.md)
 * 2023.8.2:
     * [leetcode 5. 最长回文子串(Longest Palindromic Substring)M](/algorithm/leetcode/5.Longest-Palindromic-Substring.md)
     * [leetcode 300. 最长上升子序列(Longest Increasing Subsequence)M](/algorithm/leetcode/300.Longest-Increasing-Subsequence.md)
