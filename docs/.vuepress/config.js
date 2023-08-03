@@ -99,6 +99,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/141.Linked-List-Cycle.md',
                             '/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md',
                             '/algorithm/leetcode/145.Binary-Tree-Postorder-Traversal.md',
+                            '/algorithm/leetcode/160.Intersection-of-Two-Linked-Lists.md',
                             '/algorithm/leetcode/206.Reverse-Linked-List.md',
                             '/algorithm/leetcode/232.Implement-Queue-using-Stacks.md',
                             '/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md',
