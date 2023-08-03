@@ -13,11 +13,12 @@
 * [144. 二叉树的前序遍历(Binary Tree Preorder Traversal)E](/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md)
 * [145. 二叉树的后序遍历(Binary Tree Postorder Traversal)E](/algorithm/leetcode/145.Binary-Tree-Postorder-Traversal.md)
 * [206.反转链表(Reverse Linked List)E](/algorithm/leetcode/206.Reverse-Linked-List.md)
+* [232. 用栈实现队列(Implement Queue using Stacks)E](/algorithm/leetcode/232.Implement-Queue-using-Stacks.md)
 
 ## 队列
 * [102. 二叉树的层序遍历(Binary Tree Level Order Traversal)M](/algorithm/leetcode/102.Binary-Tree-Level-Order-Traversal.md)
 * [103. 二叉树的锯齿形层次遍历(Binary Tree Zigzag Level Order Traversal)M](/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md)
-
+* [232. 用栈实现队列(Implement Queue using Stacks)E](/algorithm/leetcode/232.Implement-Queue-using-Stacks.md)
 
 ## 链表
 * [2.两数相加(Add Two Numbers)M](/algorithm/leetcode/2.Add-Two-Numbers.md)
@@ -48,6 +49,7 @@
 ## 图
 
 ## 数据结构设计
+* [232. 用栈实现队列(Implement Queue using Stacks)E](/algorithm/leetcode/232.Implement-Queue-using-Stacks.md)
 
 ## 动态规划
 * [5. 最长回文子串(Longest Palindromic Substring)M](/algorithm/leetcode/5.Longest-Palindromic-Substring.md)
