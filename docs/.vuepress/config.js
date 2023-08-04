@@ -92,6 +92,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/21.Merge-Two-Sorted-Lists.md',
                             '/algorithm/leetcode/53.Maximum-Subarray.md',
                             '/algorithm/leetcode/70.Climbing-Stairs.md',
+                            '/algorithm/leetcode/88.Merge-Sorted-Array.md',
                             '/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md',
                             '/algorithm/leetcode/102.Binary-Tree-Level-Order-Traversal.md',
                             '/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md',
