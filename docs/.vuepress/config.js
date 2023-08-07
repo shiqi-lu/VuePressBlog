@@ -90,6 +90,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/5.Longest-Palindromic-Substring.md',
                             '/algorithm/leetcode/20.Valid-Parentheses.md',
                             '/algorithm/leetcode/21.Merge-Two-Sorted-Lists.md',
+                            '/algorithm/leetcode/25.Reverse-Nodes-in-k-Group.md',
                             '/algorithm/leetcode/53.Maximum-Subarray.md',
                             '/algorithm/leetcode/69.sqrt_x.md',
                             '/algorithm/leetcode/70.Climbing-Stairs.md',

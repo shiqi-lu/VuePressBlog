@@ -24,6 +24,7 @@ sidebarDepth: 0
 
 * 2023.8.7:
     * [69. x 的平方根(Sqrt(x))E](/algorithm/leetcode/69.sqrt_x.md)
+    * [25. K 个一组翻转链表(Reverse Nodes in k-Group)H](/algorithm/leetcode/25.Reverse-Nodes-in-k-Group.md)
 * 2023.8.4:
     * [88. 合并两个有序数组(Merge Sorted Array)E](/algorithm/leetcode/88.Merge-Sorted-Array.md)
 * 2023.8.3:

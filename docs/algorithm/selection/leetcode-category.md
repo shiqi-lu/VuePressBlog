@@ -24,6 +24,7 @@
 ## 链表
 * [2.两数相加(Add Two Numbers)M](/algorithm/leetcode/2.Add-Two-Numbers.md)
 * [21. 合并两个有序链表(Merge Two Sorted Lists)E](/algorithm/leetcode/21.Merge-Two-Sorted-Lists.md)
+* [25. K 个一组翻转链表(Reverse Nodes in k-Group)H](/algorithm/leetcode/25.Reverse-Nodes-in-k-Group.md)
 * [141. 环形链表(Linked List Cycle)E](/algorithm/leetcode/141.Linked-List-Cycle.md)
 * [160. 相交链表(Intersection of Two Linked Lists)E](/algorithm/leetcode/160.Intersection-of-Two-Linked-Lists.md)
 * [206.反转链表(Reverse Linked List)E](/algorithm/leetcode/206.Reverse-Linked-List.md)
