@@ -91,6 +91,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/20.Valid-Parentheses.md',
                             '/algorithm/leetcode/21.Merge-Two-Sorted-Lists.md',
                             '/algorithm/leetcode/53.Maximum-Subarray.md',
+                            '/algorithm/leetcode/69.sqrt_x.md',
                             '/algorithm/leetcode/70.Climbing-Stairs.md',
                             '/algorithm/leetcode/88.Merge-Sorted-Array.md',
                             '/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md',

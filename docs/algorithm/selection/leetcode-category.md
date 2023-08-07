@@ -3,10 +3,10 @@
 ## 数组
 * [1.两数之和(Two Sum)E](/algorithm/leetcode/1.two-sum.md)
 * [53. 最大子数组和(Maximum Subarray)E](/algorithm/leetcode/53.Maximum-Subarray.md)
+* [88. 合并两个有序数组(Merge Sorted Array)E](/algorithm/leetcode/88.Merge-Sorted-Array.md)
 * [121. 买卖股票的最佳时机(Best Time to Buy and Sell Stock)E](/algorithm/leetcode/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [300. 最长上升子序列(Longest Increasing Subsequence)M](/algorithm/leetcode/300.Longest-Increasing-Subsequence.md)
 * [704. 二分查找(Binary Search)E](/algorithm/leetcode/704.Binary-Search.md)
-* [88. 合并两个有序数组(Merge Sorted Array)E](/algorithm/leetcode/88.Merge-Sorted-Array.md)
 
 ## 栈
 * [20. 有效的括号(Valid Parentheses)E](/algorithm/leetcode/20.Valid-Parentheses.md)
@@ -74,9 +74,9 @@
 * [53. 最大子数组和(Maximum Subarray)E](/algorithm/leetcode/53.Maximum-Subarray.md)
 
 ## 双指针
+* [88. 合并两个有序数组(Merge Sorted Array)E](/algorithm/leetcode/88.Merge-Sorted-Array.md)
 * [141. 环形链表(Linked List Cycle)E](/algorithm/leetcode/141.Linked-List-Cycle.md)
 * [160. 相交链表(Intersection of Two Linked Lists)E](/algorithm/leetcode/160.Intersection-of-Two-Linked-Lists.md)
-* [88. 合并两个有序数组(Merge Sorted Array)E](/algorithm/leetcode/88.Merge-Sorted-Array.md)
 
 ## 深度遍历
 * [94. 二叉树的中序遍历(Binary Tree Inorder Traversal)E](/algorithm/leetcode/94.Binary-Tree-Inorder-Traversal.md)
@@ -93,6 +93,7 @@
 * [509. 斐波那契数(Fibonacci Number)E](/algorithm/leetcode/509.Fibonacci-Number.md)
 
 ## 二分查找
+* [69. x 的平方根(Sqrt(x))E](/algorithm/leetcode/69.sqrt_x.md)
 * [300. 最长上升子序列(Longest Increasing Subsequence)M](/algorithm/leetcode/300.Longest-Increasing-Subsequence.md)
 * [704. 二分查找(Binary Search)E](/algorithm/leetcode/704.Binary-Search.md)
 
@@ -105,6 +106,7 @@
 
 ## 数学算法
 * [2.两数相加(Add Two Numbers)M](/algorithm/leetcode/2.Add-Two-Numbers.md)
+* [69. x 的平方根(Sqrt(x))E](/algorithm/leetcode/69.sqrt_x.md)
 * [70. 爬楼梯(Climbing Stairs)E](/algorithm/leetcode/70.Climbing-Stairs.md)
 * [415. 字符串相加(Add Strings)E](/algorithm/leetcode/415.Add-Strings.md)
 * [509. 斐波那契数(Fibonacci Number)E](/algorithm/leetcode/509.Fibonacci-Number.md)

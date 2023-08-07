@@ -22,6 +22,8 @@ sidebarDepth: 0
 
 此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出
 
+* 2023.8.7:
+    * [69. x 的平方根(Sqrt(x))E](/algorithm/leetcode/69.sqrt_x.md)
 * 2023.8.4:
     * [88. 合并两个有序数组(Merge Sorted Array)E](/algorithm/leetcode/88.Merge-Sorted-Array.md)
 * 2023.8.3:
