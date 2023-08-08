@@ -95,6 +95,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/47.Permutations-II.md',
                             '/algorithm/leetcode/53.Maximum-Subarray.md',
                             '/algorithm/leetcode/54.Spiral-Matrix.md',
+                            '/algorithm/leetcode/56.Merge-Intervals.md',
                             '/algorithm/leetcode/69.sqrt_x.md',
                             '/algorithm/leetcode/70.Climbing-Stairs.md',
                             '/algorithm/leetcode/88.Merge-Sorted-Array.md',

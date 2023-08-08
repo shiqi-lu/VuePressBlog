@@ -6,6 +6,7 @@
 * [47. 全排列 II(Permutations II)M](/algorithm/leetcode/47.Permutations-II.md)
 * [53. 最大子数组和(Maximum Subarray)E](/algorithm/leetcode/53.Maximum-Subarray.md)
 * [54. 螺旋矩阵(Spiral Matrix)M](/algorithm/leetcode/54.Spiral-Matrix.md)
+* [56. 合并区间(Merge Intervals)M](/algorithm/leetcode/56.Merge-Intervals.md)
 * [88. 合并两个有序数组(Merge Sorted Array)E](/algorithm/leetcode/88.Merge-Sorted-Array.md)
 * [121. 买卖股票的最佳时机(Best Time to Buy and Sell Stock)E](/algorithm/leetcode/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [200. 岛屿数量(Number of Islands)M](/algorithm/leetcode/200.Number-of-Islands.md)
@@ -131,4 +132,5 @@
 * [509. 斐波那契数(Fibonacci Number)E](/algorithm/leetcode/509.Fibonacci-Number.md)
 
 ## 排序
+* [56. 合并区间(Merge Intervals)M](/algorithm/leetcode/56.Merge-Intervals.md)
 * [88. 合并两个有序数组(Merge Sorted Array)E](/algorithm/leetcode/88.Merge-Sorted-Array.md)
