@@ -22,6 +22,8 @@ sidebarDepth: 0
 
 此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出
 
+* 2023.8.8:
+    * [200. 岛屿数量(Number of Islands)M](/algorithm/leetcode/200.Number-of-Islands.md)
 * 2023.8.7:
     * [69. x 的平方根(Sqrt(x))E](/algorithm/leetcode/69.sqrt_x.md)
     * [25. K 个一组翻转链表(Reverse Nodes in k-Group)H](/algorithm/leetcode/25.Reverse-Nodes-in-k-Group.md)
