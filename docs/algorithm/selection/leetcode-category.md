@@ -5,6 +5,7 @@
 * [46. 全排列(Permutations)M](/algorithm/leetcode/46.Permutations.md)
 * [47. 全排列 II(Permutations II)M](/algorithm/leetcode/47.Permutations-II.md)
 * [53. 最大子数组和(Maximum Subarray)E](/algorithm/leetcode/53.Maximum-Subarray.md)
+* [54. 螺旋矩阵(Spiral Matrix)M](/algorithm/leetcode/54.Spiral-Matrix.md)
 * [88. 合并两个有序数组(Merge Sorted Array)E](/algorithm/leetcode/88.Merge-Sorted-Array.md)
 * [121. 买卖股票的最佳时机(Best Time to Buy and Sell Stock)E](/algorithm/leetcode/121.Best-Time-to-Buy-and-Sell-Stock.md)
 * [200. 岛屿数量(Number of Islands)M](/algorithm/leetcode/200.Number-of-Islands.md)
@@ -54,6 +55,7 @@
 * [236. 二叉树的最近公共祖先(Lowest Common Ancestor of a Binary Tree)M](/algorithm/leetcode/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md)
 
 ## 矩阵
+* [54. 螺旋矩阵(Spiral Matrix)M](/algorithm/leetcode/54.Spiral-Matrix.md)
 * [200. 岛屿数量(Number of Islands)M](/algorithm/leetcode/200.Number-of-Islands.md)
 
 ## 并查集
@@ -116,6 +118,7 @@
 
 ## 模拟
 * [2.两数相加(Add Two Numbers)M](/algorithm/leetcode/2.Add-Two-Numbers.md)
+* [54. 螺旋矩阵(Spiral Matrix)M](/algorithm/leetcode/54.Spiral-Matrix.md)
 * [415. 字符串相加(Add Strings)E](/algorithm/leetcode/415.Add-Strings.md)
 
 ## 数学算法
