@@ -102,6 +102,7 @@ export default defineUserConfig({
                             '/algorithm/leetcode/102.Binary-Tree-Level-Order-Traversal.md',
                             '/algorithm/leetcode/103.Binary-Tree-Zigzag-Level-Order-Traversal.md',
                             '/algorithm/leetcode/121.Best-Time-to-Buy-and-Sell-Stock.md',
+                            '/algorithm/leetcode/124.Binary-Tree-Maximum-Path-Sum.md',
                             '/algorithm/leetcode/141.Linked-List-Cycle.md',
                             '/algorithm/leetcode/144.Binary-Tree-Preorder-Traversal.md',
                             '/algorithm/leetcode/145.Binary-Tree-Postorder-Traversal.md',

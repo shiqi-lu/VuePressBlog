@@ -25,6 +25,7 @@ sidebarDepth: 0
 * 2023.8.8:
     * [200. 岛屿数量(Number of Islands)M](/algorithm/leetcode/200.Number-of-Islands.md)
     * [54. 螺旋矩阵(Spiral Matrix)M](/algorithm/leetcode/54.Spiral-Matrix.md)
+    * [124. 二叉树中的最大路径和(Binary Tree Maximum Path Sum)H](/algorithm/leetcode/124.Binary-Tree-Maximum-Path-Sum.md)
 * 2023.8.7:
     * [69. x 的平方根(Sqrt(x))E](/algorithm/leetcode/69.sqrt_x.md)
     * [25. K 个一组翻转链表(Reverse Nodes in k-Group)H](/algorithm/leetcode/25.Reverse-Nodes-in-k-Group.md)
