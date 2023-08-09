@@ -22,6 +22,8 @@ sidebarDepth: 0
 
 此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出
 
+* 2023.8.9:
+    * [刷题多语言特性比较](docs/language/language-compare.md)
 * 2023.8.8:
     * [200. 岛屿数量(Number of Islands)M](/algorithm/leetcode/200.Number-of-Islands.md)
     * [54. 螺旋矩阵(Spiral Matrix)M](/algorithm/leetcode/54.Spiral-Matrix.md)
