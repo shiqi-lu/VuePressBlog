@@ -216,6 +216,7 @@ export default defineUserConfig({
                     '/other/first-blog.md',
                     '/other/update-blog.md',
                     '/other/roam2anki-intro.md',
+                    '/other/review-technique.md',
                     '/other/high-quality-sleep.md',
                     '/other/off-time.md',
                 ],
