@@ -16,7 +16,7 @@ roam2md主要是把Roam Research的笔记转换为显示无误的markdown笔记
 其中，第一个参数指明了要转换为对应标题样式的级别，支持0~6，0为不转换，<br>
 第二个参数及后续为要转换的文件或文件夹
 
-![](https://img.shiqi-lu.tech/202308100940963.png)
+![](https://img.shiqi-lu.tech/202308100952158.jpeg)
 
 # 功能列表
 * [x] 代码块的处理
@@ -36,8 +36,11 @@ roam2md主要是把Roam Research的笔记转换为显示无误的markdown笔记
 * 超链接
 
 # 测试支持app或网站
-* mweb
-* csdn
+* mweb: roam2md
+* csdn: roam2md
+* leetcode: roam2leetcode
+* vuepress: roam2vuepress
+* github: roam2github
 
 # 依赖
 python >= 3.7
