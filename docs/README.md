@@ -22,6 +22,8 @@ sidebarDepth: 0
 
 此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出
 
+* 2023.8.14：
+    * [封装、抽象、继承、多态的多语言实现](/language/object-oriented-compare.md)
 * 2023.8.9:
     * [刷题多语言特性比较](docs/language/language-compare.md)
     * [复习的技术](/other/review-technique.md)

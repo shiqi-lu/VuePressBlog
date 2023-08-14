@@ -30,6 +30,7 @@ export default defineUserConfig({
                 text: '编程语言',
                 children: [
                     '/language/language-compare.md',
+                    '/language/object-oriented-compare.md',
                 ],
             }, {
                 text: '网络',
