@@ -178,6 +178,7 @@ export default defineUserConfig({
             }, {
                 text: '云原生',
                 children: [
+                    '/cloud-compute/first-docker.md',
                     {
                         text: 'k8s学习笔记',
                         collapsible: true,
