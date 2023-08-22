@@ -34,13 +34,13 @@ description: 整理了Paxos分布式共识算法（非拜占庭容错算法/故�
 - P1：准备(Prepare)阶段
     - P1a：提议者广播 prepare(n)，其中 n 是本机生成的一个自增 ID，不需要全局有序，如可用时间戳+IP
     - P1b：接受者收到 prepare(n)，做决策
-```python
-if n > minProposalId, 回复 yes。
-    同时 minProposalId = n（持久化）
-    返回(acceptProposalId, acceptValue)
-else
-    回复 no
-```
+    ```python
+    if n > minProposalId, 回复 yes。
+        同时 minProposalId = n（持久化）
+        返回(acceptProposalId, acceptValue)
+    else
+        回复 no
+    ```
     - P1c
         - 提议者如果收到半数以上的 yes，则取 acceptorProposalId 最大的acceptValue 作为 v，进入第二阶段，广播 accept(n, v)
         - 如果 acceptor 返回的都是 null，则取自己的值作为 v，进入第二阶段
@@ -48,14 +48,14 @@ else
 - P2：接受(Accept)阶段
     - P2a：提议者广播 accept(n, v)。这里的 n 就是 P1 阶段的 n，v 可能是自己的值，也可能是第 1 阶段的 acceptValue
     - P2b：接受者收到 accept(n, v)，做如下决策
-```python
-if n >= minProposalId, 回复 yes。
-    同时 minProposalId = acceptProposalId = n（持久化）
-    acceptValue = value
-    返回 minProposalId
-else
-    回复 no
-```
+    ```python
+    if n >= minProposalId, 回复 yes。
+        同时 minProposalId = acceptProposalId = n（持久化）
+        acceptValue = value
+        返回 minProposalId
+    else
+        回复 no
+    ```
     - P2c：提议者如果收到半数以上的 yes，并且 minProposalId == n，则算法结束。否则，n 自增，重复 P1a
 
 ### 达成共识的过程举例
