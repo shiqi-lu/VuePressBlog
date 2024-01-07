@@ -22,6 +22,8 @@ sidebarDepth: 0
 
 此处用于记录博主当下的更新记录和关注内容，用于激励自己多用文字输出，用输出倒逼自己努力学习加油产出
 
+* 2024.1.7：
+    * [1.两数之和(Two Sum)E](/algorithm/leetcode/1.Two-Sum.md): 更新rust、ts、scala写法
 * 2023.8.15：
     * [第一本docker书](/cloud-compute/first-docker.md)
 * 2023.8.14：
